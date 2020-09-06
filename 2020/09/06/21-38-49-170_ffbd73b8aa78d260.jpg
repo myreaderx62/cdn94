@@ -1,0 +1,2942 @@
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8">
+    <title>Grasping Reality with Both Hands</title>
+
+    <meta name="generator" content="//www.typepad.com/" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="keywords" content="economics, economic history, reality-based, economic growth, political economy, delong" />
+        <meta name="description" content="Economics, economic history, politics and finance from U.C. Berkeley economist Brad DeLong" />
+
+        <link rel="stylesheet" href="https://static.typepad.com/.shared/themes/common/bootstrap/css/bootstrap.min.css">
+        <link rel="stylesheet" href="https://static.typepad.com/.shared/css/responsive-banner.css">
+
+    <link rel="stylesheet" href="https://static.typepad.com/.shared/themes/common/bxslider.css">
+    <link rel="stylesheet" href="https://static.typepad.com/.shared/css/widgets.css">
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" href="https://www.bradford-delong.com/styles.css?v=6" type="text/css" media="screen" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+
+    <link rel="canonical" href="https://www.bradford-delong.com/" />
+
+        <link rel="alternate" type="application/atom+xml" title="Posts on 'Grasping Reality with Both Hands' (Atom)" href="https://www.bradford-delong.com/atom.xml" />
+        <link rel="alternate" type="application/rss+xml" title="Posts on 'Grasping Reality with Both Hands' (RSS 1.0)" href="https://www.bradford-delong.com/index.rdf" />
+        <link rel="alternate" type="application/rss+xml" title="Posts on 'Grasping Reality with Both Hands' (RSS 2.0)" href="https://www.bradford-delong.com/rss.xml" />
+
+        <script type="text/javascript">
+                var TPApp = {};
+                TPApp.app_uri = "//www.typepad.com/";
+        </script>
+        <script type="text/javascript" src="/.shared/js/yui/yahoo-dom-event.js,/js/app/thumbnail-gallery-min.js,/js/app/flyouts-min.js"></script>
+
+
+
+
+
+
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Tinos','Questrial','Roboto' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })(); </script>
+
+
+<meta property="og:title" content="Grasping Reality with Both Hands" />
+<meta property="og:site_name" content="Grasping Reality with Both Hands" />
+<meta property="og:type" content="blog" />
+<meta property="og:url" content="https://www.bradford-delong.com/" />
+<meta property="og:description" content="&lt;a href=&quot;https://xkcd.com/239/&quot;&gt;The weblog&lt;/a&gt;
+&lt;a href=&quot;https://www.bradford-delong.com/about_brad_delong.html&quot;&gt; of Brad DeLong. Since 1999.&lt;/a&gt; 
+&lt;a href=&quot;https://www.bradford-delong.com/weblog-policies.html&quot;&gt;Comments (mostly) welcome.&lt;/a&gt;
+Or email me at delong@hey.com with &quot;delong-weblog&quot; as the subject. 
+&lt;a href=&quot;https://www.bradford-delong.com/atom.xml&quot;&gt;RSS feed.&lt;/a&gt; 
+&lt;a href=&quot;http://twitter.com/delong&quot;&gt;Also on twitter @delong.&lt;/a&gt;" />
+<meta property="fb:admins" content="" />
+<meta property="og:image" content="https://up3.typepad.com/6a00e551f08003883401bb09400621970d-220si" />
+
+
+
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-225723-36', 'auto', {'name': 'Typepad'}, {'allowLinker': true} );  // Separate tracker for Typepad.
+ga('Typepad.require', 'linker');
+ga('Typepad.linker:autoLink', ['none']);
+ga('Typepad.set', 'dimension1', '6a00e551f08003883400e551f080068834');
+ga('Typepad.set', 'dimension2', 'index');
+ga('Typepad.send', 'pageview');
+</script>
+
+
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/latest.js?config=TeX-MML-AM_CHTML' async></script>
+
+
+</head>
+<body id="top" class="one-column index fullposts">
+
+<div id="bannav-wrap">
+
+
+                <div id="st-container" class="st-container">
+			<nav class="st-menu st-effect-1 font-nav" id="menu-1">
+                                <button class="close-side-menu"><i class="fas fa-times"></i></button>
+                                <ul>
+
+        <li class="icon icon-data"><a href="https://www.bradford-delong.com/archives.html">
+        
+        <i class="fas fa-archive"></i>
+        
+        
+        Archives</a></li>
+        <li class="icon icon-data"><a href="https://delong.typepad.com/sdj/highlight/">
+        
+        
+        
+        
+        Highlighted</a></li>
+        <li class="icon icon-data"><a href="https://www.bradford-delong.com/previously-featured.html">
+        
+        
+        
+        
+        Previous</a></li>
+        <li class="icon icon-data"><a href="https://www.typepad.com/site/blogs/6a00e551f08003883400e551f080068834/posts/page/21/">
+        
+        
+        
+        
+        Edit</a></li>
+        <li class="icon icon-data"><a href="https://www.bradford-delong.com/2020/07/coronavirus-in-the-us-my-guesses-as-to-where-we-are.html">
+        
+        
+        
+        
+        COVID</a></li>
+        <li class="icon icon-data"><a href="https://www.bradford-delong.com/2020/07/the-market-was-made-for-man-not-man-for-the-market-time-to-ramp-up-direct-cash-payments.html">
+        
+        
+        
+        
+        Market for Man</a></li>
+        <li class="icon icon-data"><a href="https://www.bradford-delong.com/2020/06/note-to-self-slavery-course-topics.html">
+        
+        
+        
+        
+        Slavery</a></li>
+        <li class="icon icon-data"><a href="https://www.bradford-delong.com/2020/07/a-grand-narrative-catechism-the-global-economic-history-of-the-long-20th-century-1870-2016.html">
+        
+        
+        
+        
+        20th C.</a></li>
+        <li class="icon icon-data"><a href="https://www.bradford-delong.com/2019/12/a-note-on-reading-big-difficult-books.html">
+        
+        
+        
+        
+        Reading</a></li>
+        <li class="icon icon-data"><a href="https://www.bradford-delong.com/2020/06/why-were-university-of-chicago-professional-economists-republicans-so-stupid-about-coronavirus.html">
+        
+        
+        
+        
+        'Chicago'</a></li>
+
+                                </ul>
+			</nav>
+                </div>
+
+
+
+   
+            <div id="icons-container" class="container">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="content">
+
+
+<div class="type-text" style="display:none;" id="st-trigger-effects">
+                            <button data-effect="st-effect-1" class="menu-icon open-side-menu">
+                                <i class="fas fa-bars"></i>
+                            </button>
+</div>
+
+
+
+
+<!--navbar-->
+
+
+      <div class="navtext font-nav">
+
+      
+         <div class="navtitle font-nav">
+            <a href="https://www.bradford-delong.com/">Grasping Reality with Both Hands</a>
+         </div>
+      
+
+        <a class="nav-link" href="https://www.bradford-delong.com/archives.html">Archives</a>
+        <a class="nav-link" href="https://delong.typepad.com/sdj/highlight/">Highlighted</a>
+        <a class="nav-link" href="https://www.bradford-delong.com/previously-featured.html">Previous</a>
+        <a class="nav-link" href="https://www.typepad.com/site/blogs/6a00e551f08003883400e551f080068834/posts/page/21/">Edit</a>
+        <a class="nav-link" href="https://www.bradford-delong.com/2020/07/coronavirus-in-the-us-my-guesses-as-to-where-we-are.html">COVID</a>
+        <a class="nav-link" href="https://www.bradford-delong.com/2020/07/the-market-was-made-for-man-not-man-for-the-market-time-to-ramp-up-direct-cash-payments.html">Market for Man</a>
+        <a class="nav-link" href="https://www.bradford-delong.com/2020/06/note-to-self-slavery-course-topics.html">Slavery</a>
+        <a class="nav-link" href="https://www.bradford-delong.com/2020/07/a-grand-narrative-catechism-the-global-economic-history-of-the-long-20th-century-1870-2016.html">20th C.</a>
+        <a class="nav-link" href="https://www.bradford-delong.com/2019/12/a-note-on-reading-big-difficult-books.html">Reading</a>
+        <a class="nav-link" href="https://www.bradford-delong.com/2020/06/why-were-university-of-chicago-professional-economists-republicans-so-stupid-about-coronavirus.html">'Chicago'</a>
+   </div>
+ 
+
+
+
+                        <div id="social" style="display:none;">
+                            <ul>
+
+<li><a class="icon circle fab fa-github solo" href="https://github.com/braddelong" rel="me"></a></li><li><a class="icon circle fab fa-twitter solo" href="https://twitter.com/delong" rel="me"></a></li>
+
+                            </ul>
+                        </div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        <header class="main">
+            <div id="banner-image-container" class="container banner-text-container" style="border:0;">
+                <div class="row">
+                    <div class="col-sm-12">
+                        <div class="content">
+
+                            <div id="banner">
+
+                               <div id="banner-title-wrapper"><span id="banner-title"><h1><a href="https://www.bradford-delong.com/">Grasping Reality with Both Hands</a></h1></span></div>
+                               <div id="banner-desc-wrapper"><span id="banner-desc"><h2><a href="https://xkcd.com/239/">The weblog</a>
+<a href="https://www.bradford-delong.com/about_brad_delong.html"> of Brad DeLong. Since 1999.</a> 
+<a href="https://www.bradford-delong.com/weblog-policies.html">Comments (mostly) welcome.</a>
+Or email me at delong@hey.com with "delong-weblog" as the subject. 
+<a href="https://www.bradford-delong.com/atom.xml">RSS feed.</a> 
+<a href="https://twitter.com/delong">Also on twitter @delong.</a></h2></span></div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </header>
+   
+
+
+
+</div>
+
+    <main id="post-container">
+
+
+
+
+
+        <div class="container postarea">
+            <div class="row pagebody">
+                <div class="col-sm-12">
+
+                    <div class="left-container"><div class="left-container-inner">
+
+
+
+
+
+
+<!-- FEATURED POST -->
+
+<!-- REGULAR POSTS -->
+
+
+
+    
+
+    
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.bradford-delong.com/2020/09/growth-globalization-political-economy-in-the-north-atlantic-1870-1914lecture.html">Growth, Globalization, & Political Economy in the North Atlantic, 1870-1914—Lecture</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><iframe width="560" height="315" src="https://www.youtube.com/embed/g5oOUsPuOKo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+
+<p><a href="https://www.youtube.com/watch?v=g5oOUsPuOKo">https://www.youtube.com/watch?v=g5oOUsPuOKo</a></p>
+
+<pre><code>.#acceleration #democratization #economicgrowth #economichistgory #globalization #highlighted #growth #watershed #1870-1914
+</code></pre>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.bradford-delong.com/2020/09/growth-globalization-political-economy-in-the-north-atlantic-1870-1914lecture.html#more">Continue reading "Growth, Globalization, & Political Economy in the North Atlantic, 1870-1914—Lecture" &raquo;</a></p>
+                        
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted on September 06, 2020 at 11:18 in <a href="https://www.bradford-delong.com/economics_growth/">#economicgrowth</a>, <a href="https://www.bradford-delong.com/economic_history/">#economichistory</a>, <a href="https://www.bradford-delong.com/highlight/">#highlighted</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.bradford-delong.com/2020/09/growth-globalization-political-economy-in-the-north-atlantic-1870-1914lecture.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.bradford-delong.com/2020/09/growth-globalization-political-economy-in-the-north-atlantic-1870-1914lecture.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+    
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.bradford-delong.com/2020/09/david-brooks-i-am-not-going-to-do-my-job-on-november-3noted.html">David Brooks: "I Am Not Going to Do My Job on November 3"—Noted</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p>David Brooks says: "American democracy is in trouble because my journamalistic colleagues and I will not do our jobs on November 3": </p>
+
+<p><strong>Steve M.</strong>: <em>Just Do Your Damn Jobs</em> <a href="https://nomoremister.blogspot.com/2020/09/just-do-your-damn-jobs.html">https://nomoremister.blogspot.com/2020/09/just-do-your-damn-jobs.html</a>: ‘David Brooks writes: "On the evening of Nov. 3... Donald Trump seems to be having an excellent night. Counting the votes cast at polling places, Trump is winning Pennsylvania, Wisconsin and Michigan.... Trump quickly declares victory. So do many other Republican candidates. The media complains that it’s premature, but Trumpworld is ecstatic. Democrats know that as many as 40 percent of the ballots are mail-in and still being counted... but they can’t control the emotions of that night. It’s a gut punch." Why? Why should what's happening be a gut punch? Why should it be perceived that Donald Trump is having an excellent night?... What happens on TV on election nights? On MSNBC, to take one example, Steve Kornacki stands at a digital map and discusses not just the current vote totals but the nature of the votes that haven't been counted... that the untallied votes come from precincts or counties that are stronger for one party than another. He'd give us a sense of what it would take for the candidate who's trailing to make up the deficit. And up to a point in every contest he'd say: This is why we can't call the race yet…</p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.bradford-delong.com/2020/09/david-brooks-i-am-not-going-to-do-my-job-on-november-3noted.html#more">Continue reading "David Brooks: "I Am Not Going to Do My Job on November 3"—Noted" &raquo;</a></p>
+                        
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted on September 05, 2020 at 07:02 in <a href="https://www.bradford-delong.com/better_press_corps/">#journamalism</a>, <a href="https://www.bradford-delong.com/noted-items-1/">#noted</a>, <a href="https://www.bradford-delong.com/orangehairedbaboons/">#orangehairedbaboons</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.bradford-delong.com/2020/09/david-brooks-i-am-not-going-to-do-my-job-on-november-3noted.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.bradford-delong.com/2020/09/david-brooks-i-am-not-going-to-do-my-job-on-november-3noted.html#comments">Comments (3)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.bradford-delong.com/2020/08/modigliani-1944-liquidity-preferencenoted.html">Modigliani (1944): Liquidity Preference—Noted</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><strong>Franco Modigliani</strong> (1944): <em>Liquidity Preference and the Theory of Interest and Money</em> <a href="https://github.com/braddelong/public-files/blob/master/readings/article-modigliani-liquidity-preference.pdf">https://github.com/braddelong/public-files/blob/master/readings/article-modigliani-liquidity-preference.pdf</a>: ‘As long as wages are flexible, the long-run equilibrium rate of interest is determined exclusively by real factors... the propensity to save and the marginal efficiency of investment. The condition, money saving = money investment, determines the price level and not the rate of interest. If wages are rigid... the propensities to save and to invest but the situation is now more complicated; for these propensities depend also on money income and therefore on the quantity of active money which in turn depends itself on the level of the rate of interest.... In a system with rigid wages not only interest but also almost every economic variable depends on the quantity of money.... [In] the "Keynesian [liquidity trap] case"... the long-run equilibrium rate of interest is the rate which makes the demand for money to hold infinitely elastic... [and] the rate of interest is determined exclusively by institutional factors.</p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.bradford-delong.com/2020/08/modigliani-1944-liquidity-preferencenoted.html#more">Continue reading "Modigliani (1944): Liquidity Preference—Noted" &raquo;</a></p>
+                        
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted on August 31, 2020 at 06:08 in <a href="https://www.bradford-delong.com/noted-items-1/">#noted</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.bradford-delong.com/2020/08/modigliani-1944-liquidity-preferencenoted.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.bradford-delong.com/2020/08/modigliani-1944-liquidity-preferencenoted.html#comments">Comments (4)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.bradford-delong.com/2020/08/irwin-collier-schumpeters-macro-syllabus-1948noted.html">Irwin Collier: Schumpeter's Macro Syllabus 1948—Noted</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><strong>Irwin Collier</strong>: <em>Harvard. Advanced Economic Theory, Second Term. 1948</em> <a href="http://www.irwincollier.com/harvard-advanced-economic-theory-second-term-schumpeter-1948/">http://www.irwincollier.com/harvard-advanced-economic-theory-second-term-schumpeter-1948/</a>: ‘Joseph Schumpeter: "Economics 103b. Spring Term 1947-48. Plan of Course and Suggestions for Reading. The plan of the course is to start from and to build upon Professor Haberler’s lectures in the Fall Term (103a). We shall start from the statics of equilibrium and then discuss at some lengths the use and limitations of the method of Comparative Statics. After this, we shall survey various Dynamic Models. These models will be made the starting points of excursions...</p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.bradford-delong.com/2020/08/irwin-collier-schumpeters-macro-syllabus-1948noted.html#more">Continue reading "Irwin Collier: Schumpeter's Macro Syllabus 1948—Noted" &raquo;</a></p>
+                        
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted on August 31, 2020 at 06:02 in <a href="https://www.bradford-delong.com/noted-items-1/">#noted</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.bradford-delong.com/2020/08/irwin-collier-schumpeters-macro-syllabus-1948noted.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.bradford-delong.com/2020/08/irwin-collier-schumpeters-macro-syllabus-1948noted.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+    
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.bradford-delong.com/2020/08/themes-lecture.html">Themes | Lecture</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p>When do I say the Long 20th Century really started? <strong>1870.</strong> Why then? <strong>The third modern watershed—the third step-up in the global pace of economic growth—globalization, and the start of the American century.</strong> When do I say the Long 20th Century really ended? <strong>2016.</strong> Why then? <strong>Four reasons: (1) end of the American century, (2) slowdown in global-north growth, (3) failures of economic management, (4) revival of what we now call neo-fascism as a challenge to liberal democracy...</strong></p>
+
+<p><strong>Quantities:</strong> What was the typical human standard of living back in 1870? <strong>Perhaps $4/day—$1300/year.</strong> What is the typical human standard of living today? <strong>Perhaps $35/day—$12000/year.</strong> Is there a "typical" human standard of living today? <strong>Maybe not: global inequality is much greater than it was in 1870, and even more so in 1800. A global north of 800 million with a typical standard of living of $50000/year—$150/day; a global south of 6.8 billion with a typical standard of living of $7000/year—$20/day</strong> Is the world today a utopia? <strong>Definitely not…</strong> Is greater San Francisco today a utopia? <strong>What do you think?</strong></p>
+
+<h4>Grand Narrative</h4>
+
+<iframe src="https://www.icloud.com/keynote/0Rri6SxJyzWjx4_Jxt7e8CB7A?embed=true" width="640" height="500" frameborder="0" allowfullscreen="1" referrer="no-referrer"></iframe>
+
+<p><a href="https://github.com/braddelong/public-files/blob/master/econ-115-module-1-lecture-3.1-grand-narrative-%23tceh.pdf">https://github.com/braddelong/public-files/blob/master/econ-115-module-1-lecture-3.1-grand-narrative-%23tceh.pdf</a> <br />
+<a href="https://github.com/braddelong/public-files/blob/master/econ-115-module-1-lecture-3.1-grand-narrative-%23tceh.pptx">https://github.com/braddelong/public-files/blob/master/econ-115-module-1-lecture-3.1-grand-narrative-%23tceh.pptx</a></p>
+
+<p>21:00 of audio</p>
+
+<p>&nbsp;</p>
+
+<h4>Inequality &amp; Humanity</h4>
+
+<iframe src="https://www.icloud.com/keynote/0HM_7SaJz7S_A40VE1HnBeB-A?embed=true" width="640" height="500" frameborder="0" allowfullscreen="1" referrer="no-referrer"></iframe>
+
+<p><a href="https://github.com/braddelong/public-files/blob/master/econ-115-module-1-lecture-3.2-inequality-%23tceh.pdf">https://github.com/braddelong/public-files/blob/master/econ-115-module-1-lecture-3.2-inequality-%23tceh.pdf</a> <br />
+<a href="https://github.com/braddelong/public-files/blob/master/econ-115-module-1-lecture-3.2-inequality-%23tceh.pptx">https://github.com/braddelong/public-files/blob/master/econ-115-module-1-lecture-3.2-inequality-%23tceh.pptx</a></p>
+
+<p>14:00 of audio</p>
+
+<p>&nbsp;</p>
+
+<h4>What Has Gone Badly Wrong?</h4>
+
+<iframe src="https://www.icloud.com/keynote/04ZXrocjf4UKd39P9ACQZbz0w?embed=true" width="640" height="500" frameborder="0" allowfullscreen="1" referrer="no-referrer"></iframe>
+
+<p><a href="https://github.com/braddelong/public-files/blob/master/econ-115-module-1-lecture-3.3-going-wrong-%23tceh.pdf">https://github.com/braddelong/public-files/blob/master/econ-115-module-1-lecture-3.3-going-wrong-%23tceh.pdf</a> <br />
+<a href="https://github.com/braddelong/public-files/blob/master/econ-115-module-1-lecture-3.3-going-wrong-%23tceh.pptx">https://github.com/braddelong/public-files/blob/master/econ-115-module-1-lecture-3.3-going-wrong-%23tceh.pptx</a></p>
+
+<p>15:30 of audio</p>
+
+<p>&nbsp; Slouching Towards Utopia?</p>
+
+<iframe src="https://www.icloud.com/keynote/0V7yI4UTH_r-490sSAXetKYpw?embed=true" width="640" height="500" frameborder="0" allowfullscreen="1" referrer="no-referrer"></iframe>
+
+<p><a href="https://github.com/braddelong/public-files/blob/master/econ-115-module-1-lecture-3.4-slouching?-%23tceh.pdf">https://github.com/braddelong/public-files/blob/master/econ-115-module-1-lecture-3.4-slouching?-%23tceh.pdf</a> <br />
+<a href="https://github.com/braddelong/public-files/blob/master/econ-115-module-1-lecture-3.4-slouching?-%23tceh.pptx">https://github.com/braddelong/public-files/blob/master/econ-115-module-1-lecture-3.4-slouching?-%23tceh.pptx</a></p>
+
+<p>4:30 of audio</p>
+
+<pre><code>.#berkeley #economichistory #highlighted #lectures #tceh #themes #2020-08-30
+</code></pre>
+
+			</div>
+			
+
+			
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted on August 30, 2020 at 08:56 in <a href="https://www.bradford-delong.com/berkeley/">#berkeley</a>, <a href="https://www.bradford-delong.com/economic_history/">#economichistory</a>, <a href="https://www.bradford-delong.com/highlight/">#highlighted</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.bradford-delong.com/2020/08/themes-lecture.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.bradford-delong.com/2020/08/themes-lecture.html#comments">Comments (4)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+    
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.bradford-delong.com/2020/08/dasgupta-on-doing-economics-lecture.html">Dasgupta on Doing Economics | Lecture</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p>Why would one want to “think like an economist”?: What is “thinking like an economist”? Cost-benefit, opportunity cost, system equilibrium, marginality. This turns out to be useful for thinking about the <em>economy</em>. (Other things too: but mostly the <em>economy</em>.)  But Dasgupta has a different take, a game theorist's take...</p>
+
+<iframe src="https://delong.typepad.com/files/econ-115-module-0-lecture-3.3-dasguptas-takes-%23tceh.pdf" width="100%" height="800" scrolling="yes"></iframe>
+
+<p><a href="https://github.com/braddelong/public-files/blob/master/econ-115-module-0-lecture-3.3-dasguptas-take-%23tceh.pptx">https://github.com/braddelong/public-files/blob/master/econ-115-module-0-lecture-3.3-dasguptas-take-%23tceh.pptx</a></p>
+
+<p>&nbsp;</p>
+
+<pre><code>.#berkeley #cognition #economics #highlighted #lecture #rhetoric #2020-08-29
+</code></pre>
+
+			</div>
+			
+
+			
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted on August 29, 2020 at 19:38 in <a href="https://www.bradford-delong.com/berkeley/">#berkeley</a>, <a href="https://www.bradford-delong.com/economics/">#economics</a>, <a href="https://www.bradford-delong.com/highlight/">#highlighted</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.bradford-delong.com/2020/08/dasgupta-on-doing-economics-lecture.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.bradford-delong.com/2020/08/dasgupta-on-doing-economics-lecture.html#comments">Comments (1)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+    
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.bradford-delong.com/2020/08/sokrates-vs-machiavelli-on-the-educational-process-lecture.html"> Sokrates vs. Machiavelli on the Educational Process | Lecture</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<h4>On books:</h4>
+
+<p>Machiavelli: "I… step inside the venerable courts of the ancients, where, solicitously received by them... I am unashamed to converse with them and to question them about the motives for their actions, and they, out of their human kindness, answer me..."</p>
+
+<p>Sokrates: "The creations... if you ask them a question they preserve a solemn silence…. [Words] once written down they are tumbled about anywhere among those who may or may not understand them, and know not to whom they should reply, to whom not..."</p>
+
+<iframe src="https://delong.typepad.com/files/econ-115-module-0-lecture-3.2-education-process-%23tceh.pdf" width="100%" height="800" scrolling="yes"></iframe>
+
+<p><a href="https://github.com/braddelong/public-files/blob/master/econ-115-module-0-lecture-3.2-education-process-%23tceh.pptx">https://github.com/braddelong/public-files/blob/master/econ-115-module-0-lecture-3.2-education-process-%23tceh.pptx</a></p>
+
+<p>&nbsp;</p>
+
+<pre><code>.#berkeley #books #cognition #educationalprocess #highlighted #lecture #2020-08-29
+</code></pre>
+
+			</div>
+			
+
+			
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted on August 29, 2020 at 19:38 in <a href="https://www.bradford-delong.com/berkeley/">#berkeley</a>, <a href="https://www.bradford-delong.com/books/">#books</a>, <a href="https://www.bradford-delong.com/highlight/">#highlighted</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.bradford-delong.com/2020/08/sokrates-vs-machiavelli-on-the-educational-process-lecture.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.bradford-delong.com/2020/08/sokrates-vs-machiavelli-on-the-educational-process-lecture.html#comments">Comments (3)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.bradford-delong.com/2020/08/macroeconomics-for-beginners-optional-lecture.html">Macroeconomics for Beginners | Optional Lecture</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p>The “general glut”: What people used to talk about, instead of recession and depressions. It focuses on what is going on: excess supply in pretty much all of the markets. Back Up to 1803: Jean-Baptiste Say argued back then that a “general glut” was a metaphysical impossibility: “If certain goods remain unsold, it is because other goods are not produced; and that it is production alone which opens markets to produce.... Whenever there is a glut, a superabundance, [an excess supply] of several sorts of merchandize, it is because other articles [in excess demand] are not produced in sufficient quantities...” By 1830 Say had changed his mind...</p>
+
+<iframe src="https://delong.typepad.com/files/econ-115-module-5-lecture-3.O.1-optional-macro-for-beginners-%23tceh.pdf" width="100%" height="800" scrolling="yes"></iframe>
+
+<p><a href="https://github.com/braddelong/public-files/blob/master/econ-115-module-5-lecture-3.O.1-optional-macro-for-beginners-%23tceh.pptx">https://github.com/braddelong/public-files/blob/master/econ-115-module-5-lecture-3.O.1-optional-macro-for-beginners-%23tceh.pptx</a></p>
+
+<p>&nbsp;</p>
+
+<pre><code>.#berkeley #economics #highlighted #lecture #macro #monetaryeconomics #monetarypolicy #optional #2020-08-29
+</code></pre>
+
+			</div>
+			
+
+			
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted on August 29, 2020 at 15:44 in <a href="https://www.bradford-delong.com/berkeley/">#berkeley</a>, <a href="https://www.bradford-delong.com/economics/">#economics</a>, <a href="https://www.bradford-delong.com/highlight/">#highlighted</a>, <a href="https://www.bradford-delong.com/economics-macro/">#macro</a>, <a href="https://www.bradford-delong.com/economics_macro/">#monetaryeconomics</a>, <a href="https://www.bradford-delong.com/monetarypolicy/">#monetarypolicy</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.bradford-delong.com/2020/08/macroeconomics-for-beginners-optional-lecture.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.bradford-delong.com/2020/08/macroeconomics-for-beginners-optional-lecture.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.bradford-delong.com/2020/08/lectures-left-right-wing-alternatives-to-%C3%BEe-classical-liberal-order.html">Lectures: Left- & Right-Wing Alternatives to þe ‘Classical Liberal’ Order</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><strong>6.3.1. Alternatives to the ‘Classical Liberal’ Order: Really-Existing Socialism</strong> </p>
+
+<iframe src="https://delong.typepad.com/files/econ-115-module-6-lecture-3.1-alternatives-%23tceh.pdf" width="100%" height="800" scrolling="yes"></iframe>
+
+<p><a href="https://github.com/braddelong/public-files/blob/master/econ-115-module-6-lecture-3.1-alternatives-%23tceh.pptx">https://github.com/braddelong/public-files/blob/master/econ-115-module-6-lecture-3.1-alternatives-%23tceh.pptx</a></p>
+
+<p>&nbsp;</p>
+
+<p><strong>6.3.2. The Rule of Josef Stalin</strong></p>
+
+<iframe src="https://delong.typepad.com/files/econ-115-module-6-lecture-3.2-stalin-%23tceh.pdf" width="100%" height="800" scrolling="yes"></iframe>
+
+<p><a href="https://github.com/braddelong/public-files/blob/master/econ-115-module-6-lecture-3.2-stalin-%23tceh.pptx">https://github.com/braddelong/public-files/blob/master/econ-115-module-6-lecture-3.2-stalin-%23tceh.pptx</a></p>
+
+<p>&nbsp;</p>
+
+<p><strong>6.3.3. Fascism</strong></p>
+
+<iframe src="https://delong.typepad.com/files/econ-115-module-6-lecture-3.3-fascism-%23tceh.pdf" width="100%" height="800" scrolling="yes"></iframe>
+
+<p><a href="https://github.com/braddelong/public-files/blob/master/econ-115-module-6-lecture-3.3-fascism-%23tceh.pptx">https://github.com/braddelong/public-files/blob/master/econ-115-module-6-lecture-3.3-fascism-%23tceh.pptx</a></p>
+
+<p>&nbsp;</p>
+
+<p><strong>6.3.4. Naziism</strong></p>
+
+<iframe src="https://delong.typepad.com/files/econ-115-module-6-lecture-3.4-naziism-%23tceh.pdf" width="100%" height="800" scrolling="yes"></iframe>
+
+<p><a href="https://github.com/braddelong/public-files/blob/master/econ-115-module-6-lecture-3.4-naziism-%23tceh.pptx">https://github.com/braddelong/public-files/blob/master/econ-115-module-6-lecture-3.4-naziism-%23tceh.pptx</a></p>
+
+<p>&nbsp;</p>
+
+<p><strong>6.3.5. How Many Species of Anti-Democratic Totalitarian Movements?</strong></p>
+
+<iframe src="https://delong.typepad.com/files/econ-115-module-6-lecture-3.5-totalitarianism-%23tceh.pdf" width="100%" height="800" scrolling="yes"></iframe>
+
+<p><a href="https://github.com/braddelong/public-files/blob/master/econ-115-module-6-lecture-3.5-totalitarianism-%23tceh.pptx">https://github.com/braddelong/public-files/blob/master/econ-115-module-6-lecture-3.5-totalitarianism-%23tceh.pptx</a></p>
+
+<pre><code>.#berkeley #economichistory #lectures #tceh #2020-08-28
+</code></pre>
+
+			</div>
+			
+
+			
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted on August 28, 2020 at 20:53 in <a href="https://www.bradford-delong.com/berkeley/">#berkeley</a>, <a href="https://www.bradford-delong.com/economic_history/">#economichistory</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.bradford-delong.com/2020/08/lectures-left-right-wing-alternatives-to-%C3%BEe-classical-liberal-order.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.bradford-delong.com/2020/08/lectures-left-right-wing-alternatives-to-%C3%BEe-classical-liberal-order.html#comments">Comments (5)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.bradford-delong.com/2020/08/a-liberal-education-optional-lecture.html">A "Liberal" Education | Optional Lecture</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<iframe src="https://delong.typepad.com/files/lecture-optional-liberal-education.pdf" width="100%" height="800" scrolling="yes"></iframe>
+
+<p><a href="https://github.com/braddelong/public-files/blob/master/lecture-optional-liberal-education.pptx">https://github.com/braddelong/public-files/blob/master/lecture-optional-liberal-education.pptx</a></p>
+
+<p>“Liberal education” ≠ “kinda left- wing education” here. “Liberal education” here means “appropriate to somebody free”. Someone with control over their own destiny. Someone with a share of control over our common destinies. Not a serf, not a cleric, but also not a vassal—not somebody embedded in the system in a fixed place...</p>
+
+<pre><code>.#berkeley #cognition #education #humancapital #lecture #optional #2020-08-27
+</code></pre>
+
+			</div>
+			
+
+			
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted on August 27, 2020 at 09:45 in <a href="https://www.bradford-delong.com/berkeley/">#berkeley</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.bradford-delong.com/2020/08/a-liberal-education-optional-lecture.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.bradford-delong.com/2020/08/a-liberal-education-optional-lecture.html#comments">Comments (5)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.bradford-delong.com/2020/08/the-ethics-of-a-university-optional-lecture.html">The Ethics of a University | Optional Lecture</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<iframe src="https://delong.typepad.com/files/lecture-optional-ethics-university.pdf" width="100%" height="800" scrolling="yes"></iframe>
+
+<p><a href="https://github.com/braddelong/public-files/blob/master/lecture-optional-ethics-university.pptx">https://github.com/braddelong/public-files/blob/master/lecture-optional-ethics-university.pptx</a></p>
+
+<p>Never thought this was necessary before... It probably still isn’t necessary today... But this past decade has been a very weird, very norm-breaking decade in a lot of ways So it is best to be clear on what we are doing here... This is a university... A safe space for its members, and a safe space for their ideas...</p>
+
+<pre><code>.#berkeley #cognition #education #lecture #optional #moralresponsibility #2020-08-27
+</code></pre>
+
+			</div>
+			
+
+			
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted on August 27, 2020 at 09:41 in <a href="https://www.bradford-delong.com/berkeley/">#berkeley</a>, <a href="https://www.bradford-delong.com/moral-responsibility/">#moralresponsibility</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.bradford-delong.com/2020/08/the-ethics-of-a-university-optional-lecture.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.bradford-delong.com/2020/08/the-ethics-of-a-university-optional-lecture.html#comments">Comments (3)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.bradford-delong.com/2020/08/things-i-have-no-time-to-teach-this-fall-but-that-i-would-like-tonote-to-self.html">Things I Have No Time to Teach þis Fall, But þt I Would Like to—Note to Self</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><img style="display:block; margin-left:auto; margin-right:auto;" src="https://delong.typepad.com/img/school-of-athens-banner.png" alt="school-of-athens-banner" title="school-of-athens-banner" border="0" width="750" /></p>
+
+<p>"Data Science" &amp; "Thinking Like an Economist":</p>
+
+<ul>
+<li>The Modern Chancery Hand?: Educational Technologies at Berkeley (2017) <a href="https://github.com/braddelong/public-files/blob/master/chancery-hand-educational-technologies-at-berkeley.pptx">https://github.com/braddelong/public-files/blob/master/chancery-hand-educational-technologies-at-berkeley.pptx</a>
+<ul>
+<li>(More than) A Few Words About Computer Literacy in the 21st Century <a href="https://github.com/braddelong/weblog-support/blob/master/2017-08-30%20(More%20than%20a)%20Few%20Words%20About%20%22Computer%20Literacy%22%20in%20the%20Twenty-First%20Century....ipynb">https://github.com/braddelong/weblog-support/blob/master/2017-08-30%20(More%20than%20a)%20Few%20Words%20About%20%22Computer%20Literacy%22%20in%20the%20Twenty-First%20Century....ipynb</a></li>
+</ul></li>
+<li>Lecture: How to Think Like an Economist (If You Really Wish to) <a href="https://www.bradford-delong.com/how-to-think-like-an-economistlecture.html">https://www.bradford-delong.com/how-to-think-like-an-economistlecture.html</a> <a href="https://www.bradford-delong.com/2017/07/how-to-think-like-an-economist-if-that-is-you-wish-to.html">https://www.bradford-delong.com/2017/07/how-to-think-like-an-economist-if-that-is-you-wish-to.html</a>
+<ul>
+<li>Outline: How to Think Like an Economist (If You Really Wish to) <a href="https://www.bradford-delong.com/how-to-think-like-an-economist.html">https://www.bradford-delong.com/how-to-think-like-an-economist.html</a></li>
+</ul></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>Andy Matuschak would approve of how Niccolo Machiavelli reads:</p>
+
+<ul>
+<li><p>Niccolo Machiavelli (1513): Letter to Francesco Vettori <a href="https://github.com/braddelong/public-files/blob/master/readings/letter-machiavelli-vettori.pdf">https://github.com/braddelong/public-files/blob/master/readings/letter-machiavelli-vettori.pdf</a></p>
+
+<p>.#berkeley #cognition #economics #education #highlighted #notetoself 2020-08-24</p></li>
+</ul>
+
+<h6>html <a href="https://www.bradford-delong.com/2020/08/things-i-have-no-time-to-teach-this-fall-but-that-i-would-like-tonote-to-self.html">https://www.bradford-delong.com/2020/08/things-i-have-no-time-to-teach-this-fall-but-that-i-would-like-tonote-to-self.html</a></h6>
+
+<h6>edit html <a href="https://www.typepad.com/site/blogs/6a00e551f08003883400e551f080068834/post/6a00e551f080038834026be40b4d46200d/edit">https://www.typepad.com/site/blogs/6a00e551f08003883400e551f080068834/post/6a00e551f080038834026be40b4d46200d/edit</a></h6>
+
+			</div>
+			
+
+			
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted on August 24, 2020 at 10:27 in <a href="https://www.bradford-delong.com/berkeley/">#berkeley</a>, <a href="https://www.bradford-delong.com/economics/">#economics</a>, <a href="https://www.bradford-delong.com/highlight/">#highlighted</a>, <a href="https://www.bradford-delong.com/notetoself/">#notetoself</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.bradford-delong.com/2020/08/things-i-have-no-time-to-teach-this-fall-but-that-i-would-like-tonote-to-self.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.bradford-delong.com/2020/08/things-i-have-no-time-to-teach-this-fall-but-that-i-would-like-tonote-to-self.html#comments">Comments (3)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.bradford-delong.com/2020/08/briefly-noted-for-2020-08-22.html">Briefly Noted for 2020-08-22</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><strong>James Baldwin</strong>: <em>The American Dream Is at the Expense of the American Negro</em> <a href="https://www.tor.com/2020/08/16/lovecraft-country-sundown-episode-1-review/">https://www.tor.com/2020/08/16/lovecraft-country-sundown-episode-1-review/</a>: ‘I picked the cotton, and I carried it to the market, and I built the railroads under someone else’s whip for nothing…</p>
+
+<p><strong>Berkeley</strong>: <em>GSI Remote Teaching Hub</em> <a href="https://grad.berkeley.edu/gsi-remote-teaching-hub/">https://grad.berkeley.edu/gsi-remote-teaching-hub/</a>…</p>
+
+<p><strong>Fred</strong>: <em>COVID Dashboard</em> <a href="https://research.stlouisfed.org/useraccount/dashboard/56322#">https://research.stlouisfed.org/useraccount/dashboard/56322#</a>: ‘Initial Claims, Continued Claims, Personal Income, Personal Consumption…</p>
+
+<p><strong>Robert de Nero</strong>: <em>The Good Shepherd</em> <a href="https://github.com/braddelong/public-files/blob/master/readings/script-the-good-shepherd.pdf">https://github.com/braddelong/public-files/blob/master/readings/script-the-good-shepherd.pdf</a> <a href="https://en.wikipedia.org/wiki/The_Good_Shepherd_(film)">https://en.wikipedia.org/wiki/The_Good_Shepherd_(film)</a></p>
+
+<p><strong>Gretal Kovach</strong> (2007): <em>Pizza Chain Takes Pesos, &amp; Complaints</em> <a href="https://www.nytimes.com/2007/01/15/us/15Pizza.html">https://www.nytimes.com/2007/01/15/us/15Pizza.html</a>: ‘“I certainly wasn’t expecting ‘pizza for pesos’ to become a touchstone for the immigration issue,” Mr. Swad said. It was nothing more than an effort to “reinforce our brand promise to be the premier Latino pizza chain,” he said. “We’re businessmen. The Latino population is significant and it’s important,” Mr. Swad continued. “It’s here to stay. The United States... is going to be different, and it has an opportunity to be better.” Mr. Swad, who is Italian-Lebanese and was born and raised in Columbus, Ohio, did not speak Spanish when he opened his first take-out pizzeria in Dallas in 1986…</p>
+
+<p><strong>Gretal Kovach</strong> (2007): <em>Pizza Chain Takes Pesos, &amp; Complaints</em> <a href="https://www.nytimes.com/2007/01/15/us/15Pizza.html">https://www.nytimes.com/2007/01/15/us/15Pizza.html</a>: ‘“It’s a trivial example, but Hispanics now have their own pizza chain,” Mr. Krikorian said. “It’s a consequence of having too many people arrive from a single foreign culture, and may well reflect a kind of cultural secession”…</p>
+
+<p><strong>Daniel Voshart</strong>: <em>Photoreal Roman Emperor Project</em> <a href="https://medium.com/@voshart/photoreal-roman-emperor-project-236be7f06c8f">https://medium.com/@voshart/photoreal-roman-emperor-project-236be7f06c8f</a>: ‘Using the neural-net tool Artbreeder, Photoshop and historical references, I have created photoreal portraits of... the 54 emperors of The Principate (27 BC to 285 AD)…</p>
+
+<p>x*<em>Charlie Stross</em>*: <em>Dead Plots</em> <a href="http://www.antipope.org/charlie/blog-static/2020/08/dead-plots.html">http://www.antipope.org/charlie/blog-static/2020/08/dead-plots.html</a>: ‘the eminent mainstream literary faculty are still turning out deeply sensitive realist-mode explorations of the human condition that totally neglect the tech dimension. We live in a world with killer drones, state level actors gaslighting each others' electorates with bots and sock puppets and AI generated user icons... where private space launch companies are listed on the stock market and cars park themselves. A realist-mode 21st century novel that ignores phenomena that were tropes in 20th century SF is a de-facto historical novel, or a retro nostalgia trip for people who are deeply uneasy about modernity...</p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.bradford-delong.com/2020/08/briefly-noted-for-2020-08-22.html#more">Continue reading "Briefly Noted for 2020-08-22" &raquo;</a></p>
+                        
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted on August 22, 2020 at 14:26 in <a href="https://www.bradford-delong.com/noted-items-1/">#noted</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.bradford-delong.com/2020/08/briefly-noted-for-2020-08-22.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.bradford-delong.com/2020/08/briefly-noted-for-2020-08-22.html#comments">Comments (6)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.bradford-delong.com/2020/08/mcsweeneys-miskatonic-universitys-draft-reopening-plannoted.html">McSweeney's: Miskatonic University’s Draft Reopening Plan—Noted</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><img style="display:block; margin-left:auto; margin-right:auto;" src="https://delong.typepad.com/img/miskatonic-seal.png" alt="Miskatonic seal" title="miskatonic-seal.png" border="0" width="750" /></p>
+
+<p><strong>McSweeney's</strong>: <em>Arkham Board of Health Feedback on Miskatonic University’s Draft Plan for a Safe Campus Reopening</em> <a href="https://www.mcsweeneys.net/articles/arkham-board-of-health-feedback-on-miskatonic-universitys-draft-plan-for-a-safe-campus-reopening?fbclid=IwAR3q4m50xLFQcW4MyAsREYP9Qv_ZCrdhqo5Kll58wwMmbWavlIvod8j5DVA">https://www.mcsweeneys.net/articles/arkham-board-of-health-feedback-on-miskatonic-universitys-draft-plan-for-a-safe-campus-reopening?fbclid=IwAR3q4m50xLFQcW4MyAsREYP9Qv_ZCrdhqo5Kll58wwMmbWavlIvod8j5DVA</a>: ‘Library services: You note that all of your library’s holdings have been digitized for online reading, including certain “foul, repellent, and irrudinous tomes that bespeak eldritch accursed rites and which, once made public, may unleash nameless aeon-dead horrors”...</p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.bradford-delong.com/2020/08/mcsweeneys-miskatonic-universitys-draft-reopening-plannoted.html#more">Continue reading "McSweeney's: Miskatonic University’s Draft Reopening Plan—Noted" &raquo;</a></p>
+                        
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted on August 22, 2020 at 07:44 in <a href="https://www.bradford-delong.com/noted-items-1/">#noted</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.bradford-delong.com/2020/08/mcsweeneys-miskatonic-universitys-draft-reopening-plannoted.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.bradford-delong.com/2020/08/mcsweeneys-miskatonic-universitys-draft-reopening-plannoted.html#comments">Comments (2)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.bradford-delong.com/2020/08/briefly-noted-for-2020-08-21.html">Briefly Noted for 2020-08-21</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p>I do confess that I am flummoxed by self-identified positively-valenced “white supremacy” as a thing. </p>
+
+<p>My WASPy view was always that America was an America of ethnicities underpinned by the dominant myth-message: “people coming from elsewhere to build a utopia in which we all could live better lives”. This mosaic worked,  with cultural influences flowing every which way, with the ideas and cultural orientations of WASPy Massachusetts Puritans, Virginia libertarians, and Kentucky pioneers serving as the first layer of the cultural matrix. The exchange in the 2006 movie <em>The Good Shepherd</em> between Joe Pesci and Matt Damon grossly overstates the case, but is in the right direction: </p>
+
+<blockquote>
+  <p><strong>Joe Pesci</strong>: “Let me ask you something…. We Italians, we got our families, and we got the church; the Irish, they have the homeland, Jews their tradition; even the n------, they got their music. What about you people, Mr. Wilson, what do you have?” </p>
+  
+  <p><strong>Matt Damon</strong>: “The United States of America…” </p>
+</blockquote>
+
+<p>Yes, African-Americans were always at the bottom, but there was no monolithic “whiteness” in the mosaic anywhere. Remember: when I was at Harvard in the 1980s, when an Italian-American Catholic married an Irish-American Catholic in Boston, it was a “mixed marriage”, and people would shrug their shoulders and say it was unlikely to last. </p>
+
+<p>I look at how somebody by the name of Mark Krikorian can raise the alarm on behalf of "whiteness" against the idea of “Hispanics now hav[ing] their own pizza chain…. [It] may well reflect a kind of cultural secession…” Mark <em>Krikorian</em> finds it alarming that an Italian-Lebanese-American born in Columbus, OH sees a market for Hispanic-inflected pizza in Dallas and moves to satisfy it. And then I think: this was always a grift, this is the fascist playbook—create the bigotry against a despised other, and then use that bigotry to create a <em>volk</em>:</p>
+
+<p><strong>Sean Illing</strong>: <em>Why Rev. William Barber Thinks We Need a Moral Revolution in America</em> <a href="https://www.vox.com/policy-and-politics/2020/8/18/21327358/william-barber-poor-peoples-campaign-moral-mondays">https://www.vox.com/policy-and-politics/2020/8/18/21327358/william-barber-poor-peoples-campaign-moral-mondays</a>: '“Racism may target Black people, but it damns a democracy and it damns humanity”'…</p>
+
+<p>&nbsp;</p>
+
+<p>This is why retail businesses need large permanent financial transfers now. We do not want retail businesses that are not coronavirus transmission hotspots from receiving erroneous “shut down“ signals from the market. And yet that is what is happening when we do not make them whole from the effects of the crisis of March and April:</p>
+
+<p><strong>Jason Del Rey</strong>: <em>Amazon, Walmart, &amp; Target Reap þe Rewards of Covid Restrictions</em> <a href="https://www.vox.com/recode/2020/8/20/21375942/amazon-walmart-target-pandemic-earnings-q2-2020-essential-retailers">https://www.vox.com/recode/2020/8/20/21375942/amazon-walmart-target-pandemic-earnings-q2-2020-essential-retailers</a>: ‘Some feared the pandemic would widen the gap between the haves and have-nots of retail. That fear is now reality…</p>
+
+<p>&nbsp;</p>
+
+<p>Not that Isaac Asimov’s 1950s novel <em>The Naked Sun</em> Is either a great mystery novel or a great science fiction novel. But it is a place to start in thinking about how this next upward leap in interacting with each other via symbols and screens is going to work. What personality types are going to do well? What personality types are going to do badly? In in-person interactions, a great deal of the information channels our bids and offers about authority because rapidly reaching consensus about what the group was going to do trumped reaching the best decision at the price of maybe reaching no decision at all. But those channels do not operate through screens, as anyone who has ever participated in a flamewar Or watched trolls destroy an online discussion knows very well:</p>
+
+<p><strong>Sean Gallagher</strong>: <em>Respawn Point: þe Inevitable Reincarnation of þe Corporate Office</em> <a href="https://arstechnica.com/information-technology/2020/08/work-from-home-03-the-office/">https://arstechnica.com/information-technology/2020/08/work-from-home-03-the-office/</a>: ‘Stanford Institute for Economic Research figures in June showed only 42 percent of the US workforce working from home full-time—the fact remains that people's relationship with their workplace has been dramatically restructured, perhaps permanently…</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Publius Aelius Aristides Theodorus</strong> (155): <em>The Roman Oration</em> <a href="https://www.bradford-delong.com/2017/11/aelius-aristides-the-roman-oration-it-is-a-time-honored-custom-of-travelers-setting-forth-by-land-or-sea-to-m.html">https://www.bradford-delong.com/2017/11/aelius-aristides-the-roman-oration-it-is-a-time-honored-custom-of-travelers-setting-forth-by-land-or-sea-to-m.html</a>…</p>
+
+<p><strong>Wikipedia</strong>: <em>Wrought Iron</em> <a href="https://en.wikipedia.org/wiki/Wrought_iron">https://en.wikipedia.org/wiki/Wrought_iron</a> | <em>Cast Iron</em> <a href="https://en.wikipedia.org/wiki/Cast_iron">https://en.wikipedia.org/wiki/Cast_iron</a> | <em>Bessemer Process</em> <a href="https://en.wikipedia.org/wiki/Bessemer_process">https://en.wikipedia.org/wiki/Bessemer_process</a> | <em>Steel</em> <a href="https://en.wikipedia.org/wiki/Steel">https://en.wikipedia.org/wiki/Steel</a></p>
+
+<p><em>Boichik Bagels</em> <a href="https://boichikbagels.myshopify.com/">https://boichikbagels.myshopify.com/</a>…</p>
+
+<p><strong>Constance Hunter</strong> (2020-08-19): <em>Riding the Covid-Coaster</em> <a href="https://github.com/braddelong/public-files/blob/master/readings/presentation-hunter-covid-coaster.pdf">https://github.com/braddelong/public-files/blob/master/readings/presentation-hunter-covid-coaster.pdf</a>…</p>
+
+<p><strong>Casey Johnston</strong>: <em>How to Fit in a Real Workout When You Have Only 20 Minutes</em> <a href="https://www.vice.com/en_us/article/889bxx/how-to-get-a-real-workout-only-20-minutes">https://www.vice.com/en_us/article/889bxx/how-to-get-a-real-workout-only-20-minutes</a>: ‘[Randi Zuckerberg takes] a slightly more aggressive line here with her “pick three” rule: “Work. Sleep. Family. Friends. Fitness. Pick Three.” But I often see this rule separated from Zuckerberg’s follow-up clarification: “I can pick a different three tomorrow, and a different three the following day. But today, I can only pick three. As long as I wind up picking everything over the long run, then I’m balancing my imbalance”…</p>
+
+<p><strong>Jim Wendler</strong>: <em>How to Fit in a Real Workout When You Have Only 20 Minutes</em> <a href="https://www.vice.com/en_us/article/889bxx/how-to-get-a-real-workout-only-20-minutes">https://www.vice.com/en_us/article/889bxx/how-to-get-a-real-workout-only-20-minutes</a>: ‘This is my favorite. I don’t recommend it, but it’s useful for non-beginners who have limited time to train. The I’m Not Doing Jack Shit program entails walking into the weight room, doing the big lift for the day (bench, squat, military or deadlift), and then walking out… I’ve made this deal with myself many times before I’ve trained: If I do X weight for X amount of reps, I’m leaving…</p>
+
+<p><em>2020 Democratic Party Platform</em> <a href="https://www.demconvention.com/wp-content/uploads/2020/07/2020-07-21-DRAFT-Democratic-Party-Platform.pdf">https://www.demconvention.com/wp-content/uploads/2020/07/2020-07-21-DRAFT-Democratic-Party-Platform.pdf</a>…</p>
+
+<p><strong>Wikipedia</strong>: <em>Titus Aurelius Fulvus Boionius Arrius Antoninus Pius</em> <a href="https://en.wikipedia.org/wiki/Antoninus_Pius#Marriage_and_children">https://en.wikipedia.org/wiki/Antoninus_Pius#Marriage_and_children</a>…</p>
+
+<p><strong>Wikipedia</strong>: <em>Faustina the Elder—Annia Galeria Faustina</em> <a href="https://en.wikipedia.org/wiki/Faustina_the_Elder">https://en.wikipedia.org/wiki/Faustina_the_Elder</a>…</p>
+
+<p>&nbsp;</p>
+
+<h4>Plus:</h4>
+
+<p><strong>FRED</strong>: <em>COVID Dashboard</em> <a href="https://research.stlouisfed.org/useraccount/dashboard/56322#">https://research.stlouisfed.org/useraccount/dashboard/56322#</a>: Initial Claims, Continued Claims, Real Personal Income, Real Personal Consumption Expenditures...</p>
+
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="https://delong.typepad.com/img/covid-fred-dashboard-2020-08-21.png" alt="Covid fred dashboard 2020 08 21" title="covid-fred-dashboard-2020-08-21.png" border="0" width="599" height="570" /></p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.bradford-delong.com/2020/08/briefly-noted-for-2020-08-21.html#more">Continue reading "Briefly Noted for 2020-08-21" &raquo;</a></p>
+                        
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted on August 21, 2020 at 09:56 in <a href="https://www.bradford-delong.com/highlight/">#highlighted</a>, <a href="https://www.bradford-delong.com/noted-items-1/">#noted</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.bradford-delong.com/2020/08/briefly-noted-for-2020-08-21.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.bradford-delong.com/2020/08/briefly-noted-for-2020-08-21.html#comments">Comments (7)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.bradford-delong.com/2020/08/the-pompeians-commanded-by-afranius-surrender-liveblogging-%C3%BEe-fall-of-%C3%BEe-roman-republic.html">The Pompeians Commanded by Afranius Surrender: Liveblogging þe Fall of þe Roman Republic</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><img style="display:block; margin-left:auto; margin-right:auto;" src="https://delong.typepad.com/img/mausoleum-of-the-julii-in-glanum.png" alt="Mausoleum of the julii in glanum" title="mausoleum-of-the-julii-in-glanum.png" border="0" width="750" /></p>
+
+<p>And the Pompeians surrender. It is June 10, -49. In six and a hal months since crossing the Rubicon, Caesar has forced the disbanding of the equivalent of eight Pompeian legions without doing more than skirmishing, moving rapidly, and cleverly managing logistics and intercepting supply lines: </p>
+
+<p><strong>Gaius Julius Caesar</strong>: <em>The Civil War</em> <a href="https://www.gutenberg.org/cache/epub/10657/pg10657-images.html">http://www.gutenberg.org/cache/epub/10657/pg10657-images.html</a>: ‘In this work, and the deliberations on it, two days were spent. By the third day a considerable part of Caesar's works was finished. To interrupt his progress, they drew out their legions about the eighth hour, by a certain signal, and placed them in order of battle before their camp. Caesar calling his legions off from their work, and ordering the horse to hold themselves in readiness, marshalled his army: for to appear to decline an engagement contrary to the opinion of the soldiers and the general voice, would have been attended with great disadvantage...</p>
+
+<blockquote>
+  <p>But for the reasons already known, he was dissuaded from wishing to engage, and the more especially, because the short space between the camps, even if the enemy were put to flight, would not contribute much to a decisive victory; for the two camps were not distant from each other above two thousand feet. Two parts of this were occupied by the armies, and one third left for the soldiers to charge and make their attack. If a battle should be begun, the nearness of the camps would afford a ready retreat to the conquered party in the flight. </p>
+  
+  <p>For this reason Caesar had resolved to make resistance, if they attacked him, but not to be the first to provoke the battle.</p>
+  
+  <p>Afranius's five legions were drawn up in two lines, the auxiliary cohorts formed the third line, and acted as reserves. Caesar had three lines, four cohorts out of each of the five legions formed the first line. Three more from each legion followed them, as reserves: and three others were behind these. The slingers and archers were stationed in the centre of the line; the cavalry closed the flanks. </p>
+  
+  <p>The hostile armies being arranged in this manner, each seemed determined to adhere to his first intention: Caesar not to hazard a battle, unless forced to it; Afranius to interrupt Caesar's works. However, the matter was deferred, and both armies kept under arms till sunset; when they both returned to their camp. The next day Caesar prepared to finish the works which he had begun. The enemy attempted to pass the river Segre by a ford. Caesar, having perceived this, sent some light-armed Germans and a party of horse across the river, and disposed several parties along the banks to guard them.</p>
+  
+  <p>At length, beset on all sides, their cattle having been four days without fodder, and having no water, wood, or corn, they beg a conference; and that, if possible, in a place remote from the soldiers. When this was refused by Caesar, but a public interview offered if they chose it, Afranius's son was given as a hostage to Caesar. They met in the place appointed by Caesar. </p>
+  
+  <p>In the hearing of both armies, Afranius spoke thus:</p>
+  
+  <blockquote>
+    <p>That Caesar ought not to be displeased either with him or his soldiers, for wishing to preserve their attachment to their general, Cneius Pompey. That they had now sufficiently discharged their duty to him, and had suffered punishment enough, in having endured the want of every necessary: but now, pent up almost like wild beasts, they were prevented from procuring water, and prevented from walking abroad; and were not able to bear the bodily pain or the mental disgrace: but confessed themselves vanquished: and begged and entreated, if there was any room left for mercy, that they should not be necessitated to suffer the most severe penalties.</p>
+  </blockquote>
+  
+  <p>These sentiments were delivered in the most submissive and humble language.</p>
+  
+  <p>Caesar replied,</p>
+  
+  <blockquote>
+    <p>That either to complain or sue for mercy became no man less than him: for that every other person had done their duty: himself, in having declined to engage on favourable terms, in an advantageous situation and time, that all things tending to a peace might be totally unembarrassed: his army, in having preserved and protected the men whom they had in their power, notwithstanding the injuries which they had received, and the murder of their comrades; and even Afranius's soldiers, who of themselves treated about concluding a peace, by which they thought that they would secure the lives of all. Thus, that the parties on both sides inclined to mercy: that the generals only were averse to peace: that they paid no regard to the laws either of conference or truce; and had most inhumanly put to death ignorant persons, who were deceived by a conference: that therefore, they had met that fate which usually befalls men from excessive obstinacy and arrogance; and were obliged to have recourse, and most earnestly desire that which they had shortly before disdained. </p>
+    
+    <p>That for his part, he would not avail himself of their present humiliation, or his present advantage, to require terms by which his power might be increased, but only that those armies, which they had maintained for so many years to oppose him, should be disbanded: for six legions had been sent into Spain, and a seventh raised there, and many and powerful fleets provided, and generals of great military experience sent to command them, for no other purpose than to oppose him; that none of these measures were adopted to keep the Spains in peace, or for the use of the province, which, from the length of the peace, stood in need of no such aid; that all these things were long since designed against him: that against him a new sort of government was established, that the same person should be at the gates of Rome, to direct the affairs of the city; and though absent, have the government of two most warlike provinces for so many years: that against him the laws of the magistrates had been altered; that the late praetors and consuls should not be sent to govern the provinces as had been the constant custom, but persons approved of and chosen by a faction. </p>
+    
+    <p>That against him the excuse of age was not admitted: but persons of tried experience in former wars were called up to take the command of the armies, that with respect to him only, the routine was not observed which had been allowed to all generals, that, after a successful war, they should return home and disband their armies, if not with some mark of honour, at least without disgrace: that he had submitted to all these things patiently, and would still submit to them: nor did he now desire to take their army from them and keep it to himself (which, however, would not be a difficult matter), but only that they should not have it to employ against him: and therefore, as he said before, let them quit the provinces, and disband their army. </p>
+    
+    <p>If this was complied with, he would injure no person; that these were the last and only conditions of peace.</p>
+  </blockquote>
+  
+  <p>It was very acceptable and agreeable to Afranius's soldiers, as might be easily known from their signs of joy, that they who expected some injury after this defeat, should obtain without solicitation the reward of a dismissal. For when a debate was introduced about the place and time of their dismissal, they all began to express, both by words and signs, from the rampart where they stood, that they should be discharged immediately: for although every security might be given that they would be disbanded, still the matter would be uncertain, if it was deferred to a future day. </p>
+  
+  <p>After a short debate on either side, it was brought to this issue: that those who had any settlement or possession in Spain, should be immediately discharged: the rest at the river Var. </p>
+  
+  <p>Caesar gave security that they should receive no damage, and that no person should be obliged against his inclination to take the military oath under him…
+  &nbsp;</p>
+</blockquote>
+
+<pre><code>.#history #livebloggingthefalloftheromanrepublic #politics #2020-08-18
+</code></pre>
+
+<h6>html &lt; ></h6>
+
+<h6>edit html &lt; ></h6>
+
+<p>&nbsp;</p>
+
+<hr />
+
+<p>&nbsp;</p>
+
+<p><em>Foreshadowing from Gaius Sallustius Crispus</em> <a href="https://www.bradford-delong.com/2020/07/foreshadowing-from-gaius-sallustius-crispus-liveblogging-the-fall-of-the-roman-republic.html">https://www.bradford-delong.com/2020/07/foreshadowing-from-gaius-sallustius-crispus-liveblogging-the-fall-of-the-roman-republic.html</a>: A strongly unconventional high politician facing the expiration of his term of office. He knows that there is a very high probability that, because of his actions in office, his adversaries will try and convict him of crimes after he lays down his power. Let us start with some foreshadowing from Gaius Sallustius Crispus...</p>
+
+<hr />
+
+<p><em>Pompey's Strategy and Domitius' Stand</em> <a href="https://www.bradford-delong.com/2020/07/burns-pompeys-strategy-and-domitius-standnoted.html">https://www.bradford-delong.com/2020/07/burns-pompeys-strategy-and-domitius-standnoted.html</a>: In his <em>The Civil War</em> Gaius Julius Caesar presented "just the facts" in a way that made Lucius Domitius Ahenobarbus look like a cowardly and incompetent idiot. The attractive interpretation is that Ahenobarbus was just trying to do the job of defeating Caesar, but had failed to recognize that Pompey was not his ally but, rather, was somebody whose first goal was to gain the submission of Ahenobarbus and the other Optimates, and only after that submission was gained would he even think about fighting Caesar. Still an idiot, but not an incompetent or a cowardly one…</p>
+
+<p><em>Marcus Tullius Cicero's Take on the First Three Months of -49</em> <a href="https://www.bradford-delong.com/2020/07/marcus-tullius-ciceros-take-on-the-first-three-months-of-49-liveblogging-the-fall-of-the-roman-republic.html">https://www.bradford-delong.com/2020/07/marcus-tullius-ciceros-take-on-the-first-three-months-of-49-liveblogging-the-fall-of-the-roman-republic.html</a>: ‘We have another primary source... in addition to Gaius Julius Caesar's deceptively powerful plain-spoken "just the facts" narrative: Cicero. Caesar makes himself out to be reasonable, rational, decisive, and clever. Cicero... lets his hair down. He is writing to someone he trusts to love him without reservation. He is completely unconcerned with making himself appear to be less flawed than he appears. And the impression he leaves is absolutely dreadful: erratic, emotional, dithering, and idiotic…</p>
+
+<p><em>Reflecting on the First Three Months of -49</em> <a href="https://www.bradford-delong.com/2020/07/reflecting-on-the-first-three-months-of-49-liveblogging-the-fall-of-the-roman-republic.html">https://www.bradford-delong.com/2020/07/reflecting-on-the-first-three-months-of-49-liveblogging-the-fall-of-the-roman-republic.html</a>: ‘The key question for the first three months of the year -49 is: what did the factions anticipate would happen in that year? The Optimates seemed to think that they had Caesar cornered. My guess is that Pompey found himself allied with the Senate in January-February of -49, but not in command. So he retreated to Greece, where he was in undisputed command…</p>
+
+<hr />
+
+<p><em>Caesar Offers a Compromise Solution (or So Caesar Says)</em> <a href="https://www.bradford-delong.com/2020/07/caesar-offers-a-compromise-solution-or-so-caesar-says-liveblogging-the-fall-of-the-roman-republic.html">https://www.bradford-delong.com/2020/07/caesar-offers-a-compromise-solution-or-so-caesar-says-liveblogging-the-fall-of-the-roman-republic.html</a>: The Beginning of Caesar's <em>Commentaries on the Civil War</em>, in which Caesar says that he had proposed a compromise solution, but the firebreathers had rejected it: 'Scipio... "if [the Senate] hesitated and showed weakness, then, should they want [Pompey's] help later, they would ask for it in vain…</p>
+
+<p><em>The Optimate Faction Rejects Caesar's Compromise</em> <a href="https://www.bradford-delong.com/2020/07/the-optimate-faction-rejects-caesars-compromise-liveblogging-the-fall-of-the-roman-republic.html">https://www.bradford-delong.com/2020/07/the-optimate-faction-rejects-caesars-compromise-liveblogging-the-fall-of-the-roman-republic.html</a>: Caesar narrates the reasons that the leaders of the Optimate faction—Cato, Lentulus, Scipio, and Pompey—worked hard to set the stage for war, and how the majority of Senators in the timorous middle were robbed of the power to decide freely…</p>
+
+<p><em>The Optimate Faction Arms for War, &amp; Illegally Usurps Provincial Imperium</em> <a href="https://www.bradford-delong.com/2020/07/the-optimate-faction-arms-for-war-illegally-usurps-provincial-imperium-liveblogging-the-fall-of-the-roman-republic.html">https://www.bradford-delong.com/2020/07/the-optimate-faction-arms-for-war-illegally-usurps-provincial-imperium-liveblogging-the-fall-of-the-roman-republic.html</a>: Caesar narrates: Whatever norms he may or may not have broken during his consulate—in order to wrest land from the hands of corrupt plutocrats and grant it to the deserving—he says, the Optimate faction does much worse, beyond norm-breaking into outright illegality. And to that they add impiety…</p>
+
+<p><em>Caesar Presents His Case to the 13th Legion, &amp; Negotiates Unsucccessfully with Pompey</em> <a href="https://www.bradford-delong.com/2020/07/caesar-presents-his-case-to-the-13th-legion-negotiates-unsucccessfully-with-pompey-liveblogging-the-fall-of-the-roman-rep.html">https://www.bradford-delong.com/2020/07/caesar-presents-his-case-to-the-13th-legion-negotiates-unsucccessfully-with-pompey-liveblogging-the-fall-of-the-roman-rep.html</a>: Caesar presents his case to the 13th Legion, and wins its enthusiastic support. Caesar and Pompey negotiate, but Pompey refuses to give up his dominant position…</p>
+
+<p><em>The Optimate Faction Panics and Abandons Rome</em> <a href="https://www.bradford-delong.com/2020/07/the-optimate-faction-panics-and-abandons-rome-liveblogging-the-fall-of-the-roman-republic.html">https://www.bradford-delong.com/2020/07/the-optimate-faction-panics-and-abandons-rome-liveblogging-the-fall-of-the-roman-republic.html</a>: Caesar narrates: The Optimate faction panics and flees. The towns of Italy support Caesar. And Pompey's attempts to reinforce his army by recruiting veterans who had obtained their farms through Caesar's legislative initiatives did not go well...</p>
+
+<p><em>Caesar Besieges Domitius in Corfinum</em> <a href="https://www.bradford-delong.com/2020/07/caesar-besieges-domitius-in-corfinum-liveblogging-the-fall-of-the-roman-republic.html">https://www.bradford-delong.com/2020/07/caesar-besieges-domitius-in-corfinum-liveblogging-the-fall-of-the-roman-republic.html</a>: Lucius Domitius Ahenobarbus concentrates 13000 soldiers in the town of Corfinum and decides to make a stand. Pompey calls him an idiot. He, Pompey, "cannot risk the whole war in a single battle, especially under the circumstances"…</p>
+
+<p><em>Caesar Captures Corfinum</em> <a href="https://www.bradford-delong.com/2020/07/caesar-captures-corfinum-liveblogging-the-fall-of-the-roman-republic.html">https://www.bradford-delong.com/2020/07/caesar-captures-corfinum-liveblogging-the-fall-of-the-roman-republic.html</a>: Lucius Domitius Ahenobarbus's deception that Pompey is coming to the Optimates' aid in Corfinum falls apart, Ahenobarbus tries to flee. Before Corfinum Caesar had had two legions in Italy to the Optimate and Pompeian six. After Corfinum Caesar has seven legions in Italy to the Pompeian three…</p>
+
+<p><em>Pompey Refuses to Negotiate &amp; Flees to Greece</em> <a href="https://www.bradford-delong.com/2020/07/pompey-refuses-to-negotiate-flees-to-greece-liveblogging-the-fall-of-the-roman-republic.html">https://www.bradford-delong.com/2020/07/pompey-refuses-to-negotiate-flees-to-greece-liveblogging-the-fall-of-the-roman-republic.html</a>: Pompey flees to the southern Adriatic port of Brundisium. Caesar catches up to him and begs him to negotiate. Pompey refuses and flees. Caesar decides not to follow, but to turn and first defeat the Pompeian armies in Spain... </p>
+
+<p><em>Cementing Caesarian Control of the Center of the Empire: Late March -49</em> <a href="https://www.bradford-delong.com/2020/07/cementing-caesarian-control-of-the-center-of-the-empire-late-march-49-liveblogging-the-fall-of-the-roman-republic.html">https://www.bradford-delong.com/2020/07/cementing-caesarian-control-of-the-center-of-the-empire-late-march-49-liveblogging-the-fall-of-the-roman-republic.html</a>: Caesar offers to share power with the dysfunctional Senate but, filibustered and vetoed by Optimate tribunes, he consolidates his hold and heads for Spain…</p>
+
+<p><em>Treachery at Massilia: April-May -49</em> <a href="https://www.bradford-delong.com/2020/07/treachery-at-massilia-april-may-49-liveblogging-the-fall-of-the-roman-republic.html">https://www.bradford-delong.com/2020/07/treachery-at-massilia-april-may-49-liveblogging-the-fall-of-the-roman-republic.html</a>: The Massiliotes profess neutrality—until Pompeian reinforcements arrive. Pompeians to whom Caesar had shown clemency at Corfinium have again taken up weapons against him again…</p>
+
+<p><em>Rendezvous in Spain, at Ilerda</em> <a href="https://www.bradford-delong.com/2020/08/rendezvous-in-spain-at-ilerda-livelogging-the-fall-of-the-roman-repubvlic.html">https://www.bradford-delong.com/2020/08/rendezvous-in-spain-at-ilerda-livelogging-the-fall-of-the-roman-repubvlic.html</a>: Caesar moves to deal with the Pompeian forces in Spain to his west…</p>
+
+<p><em>Caesar Begins His First Spanish Campaign</em> <a href="https://www.bradford-delong.com/2020/08/caesar-begins-his-first-spanish-campaign-livelogging-the-fall-of-the-roman-republic.html">https://www.bradford-delong.com/2020/08/caesar-begins-his-first-spanish-campaign-livelogging-the-fall-of-the-roman-republic.html</a>: Caesar has his men build a fortified camp close enough to the Pompeian base that the soldiers will inevitably start to fraternize...</p>
+
+<p><em>Heavy But Inconclusive Skirmishing Between the Military Camps at Ilerda</em> <a href="https://www.bradford-delong.com/2020/08/heavy-but-inconclusive-skirmishing-between-the-military-camps-at-ilerda-livelogging-the-fall-of-the-roman-republic.html">https://www.bradford-delong.com/2020/08/heavy-but-inconclusive-skirmishing-between-the-military-camps-at-ilerda-livelogging-the-fall-of-the-roman-republic.html</a>…</p>
+
+<p><em>Floods and Supply Lines</em> <a href="https://www.bradford-delong.com/2020/08/floods-and-suppyl-liner-livelogging-the-fall-of-the-roman-republic.html">https://www.bradford-delong.com/2020/08/floods-and-suppyl-liner-livelogging-the-fall-of-the-roman-republic.html</a>: Caesar faces logistical difficulties…</p>
+
+<p><em>Caesar Turns the Tables on the Pompeian Skirmishers</em> <a href="https://www.bradford-delong.com/2020/08/caesar-turns-the-tables-on-the-pompeian-skirmishers-liveblogging-the-fall-of-the-roman-republic.html">https://www.bradford-delong.com/2020/08/caesar-turns-the-tables-on-the-pompeian-skirmishers-liveblogging-the-fall-of-the-roman-republic.html</a>: ‘Caesar overcomes his logistical difficulties…</p>
+
+<p><em>The Caesarian Navy Led by Decimus Brutus Wins a Victory at Massilia</em> <a href="https://www.bradford-delong.com/2020/08/the-caesarian-navy-led-by-decimus-brutus-wins-a-victory-at-massilia-liveblogging-the-fall-of-the-roman-republic.html">https://www.bradford-delong.com/2020/08/the-caesarian-navy-led-by-decimus-brutus-wins-a-victory-at-massilia-liveblogging-the-fall-of-the-roman-republic.html</a>…</p>
+
+<p><em>Afranius &amp; Petreius Fear Caesar's Cavalry &amp; Decide to Retreat</em> <a href="https://www.bradford-delong.com/2020/08/afranius-petreius-fear-caesars-cavalry-decide-to-retreat-liveblogging-the-fall-of-the-roman-republic.html">https://www.bradford-delong.com/2020/08/afranius-petreius-fear-caesars-cavalry-decide-to-retreat-liveblogging-the-fall-of-the-roman-republic.html</a>: ‘Logistics and diplomacy reverse the situation at Ilerda in northeast Spain, as Caesar gains an advantage in allied cavalry that makes Afranius and Petreius fear their position will soon become logistically untenable…</p>
+
+<p><em>Caesar Pursues the Retreating Pompeians</em> <a href="https://www.bradford-delong.com/2020/08/caesar-pursues-the-retreating-pompeians-liveblogging-the-fall-of-the-roman-republic.html">https://www.bradford-delong.com/2020/08/caesar-pursues-the-retreating-pompeians-liveblogging-the-fall-of-the-roman-republic.html</a>: ‘Caesar learns that Afranius and Petreius have decided to retreat. So when they do, he sets his army in hot pursuit…</p>
+
+<p><em>Caesar Steals a March on þe Pompeians</em> <a href="https://www.bradford-delong.com/2020/08/caesar-pursues-the-retreating-pompeians-liveblogging-the-fall-of-the-roman-republic-1.html#more">https://www.bradford-delong.com/2020/08/caesar-pursues-the-retreating-pompeians-liveblogging-the-fall-of-the-roman-republic-1.html#more</a>: ‘Caesar learns that Afranius and Petreius have decided to retreat, and pursues. These overly-cautious Pompeian generals begin to lose the war of maneuver…</p>
+
+<p><em>Caesar Cuts the Pompeians Off from þe Ebro &amp; þeir Line of Retreat</em> <a href="https://www.bradford-delong.com/2020/08/caesar-cuts-the-pompeians-off-from-þe-ebro-þeir-line-of-retreat-liveblogging-þe-fall-of-þe-roman-republic.html">https://www.bradford-delong.com/2020/08/caesar-cuts-the-pompeians-off-from-þe-ebro-þeir-line-of-retreat-liveblogging-þe-fall-of-þe-roman-republic.html</a>: ‘And he begins trying to woo the soldiers over to his side. The Pompeian generals Afranius and Petreius react badly—and so it becomes clementia vs. crudelitas…</p>
+
+<p><em>Caesar's Army Traps the Pompeians</em> <a href="https://www.bradford-delong.com/2020/08/caesars-army-traps-the-pompeians-liveblogging-%C3%BEe-fall-of-%C3%BEe-roman-republic.html">https://www.bradford-delong.com/2020/08/caesars-army-traps-the-pompeians-liveblogging-%C3%BEe-fall-of-%C3%BEe-roman-republic.html</a>: ‘The Pompeians attempt to retreat, and then fortify themselves on unfavorable ground with neither water nor forage available…</p>
+
+			</div>
+			
+
+			
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted on August 20, 2020 at 11:39 in <a href="https://www.bradford-delong.com/politics/">#politics</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.bradford-delong.com/2020/08/the-pompeians-commanded-by-afranius-surrender-liveblogging-%C3%BEe-fall-of-%C3%BEe-roman-republic.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.bradford-delong.com/2020/08/the-pompeians-commanded-by-afranius-surrender-liveblogging-%C3%BEe-fall-of-%C3%BEe-roman-republic.html#comments">Comments (3)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.bradford-delong.com/2020/08/briefly-noted-for-2020-08-19.html">Briefly Noted for 2020-08-19</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p>The end of California’s “Mediterranean climate”? Nah. It’s still cooler in the summer than Greece, or Catalonia, or Sicily—by a lot:</p>
+
+<p><strong>Daniel Swain</strong>: <em>https://weatherwest.com/archives/7427</em> <a href="https://weatherwest.com/">https://weatherwest.com/</a>: ‘A very intense and prolonged heatwave now appears likely for a large portion of California over the next 7-10 days, and this event will likely have wide-ranging impacts from human health, wildfire, and electricity demand perspectives.... A strengthening ridge axis... from the southeast... a humid tropical airmass... from the southwest... remnants of former Hurricane Elida... locked in place for at least the next 7 days, and very possibly longer…</p>
+
+<p>&nbsp;</p>
+
+<p>It now looks like there was enough of a bounceback in July to give us a 5% boost to third quarter GDP—that is a 20% reported annualized growth rate for Q3 –unless the economy is falling off a cliff now or does so in September. Unfortunately, the economy may well fall off a cliff this month or next. The renewed spread of the coronavirus plague, plus Trump's and McConnell‘s decision that they would rather have no fiscal stimulus at all then negotiate with Pelosi, are not pieces of good news for aggregate demand:</p>
+
+<p><strong>Tim Duy</strong>: <em>Fiscal Follies Continue*<em></em> <a href="https://blogs.uoregon.edu/timduyfedwatch/2020/08/10/fiscal-follies-continue/">https://blogs.uoregon.edu/timduyfedwatch/2020/08/10/fiscal-follies-continue/</a>: ‘Incoming data still reflects the push-pull dynamics of the shutdown and reopening; we *</em>don’t have a clear picture of the growth trajectory after those dynamics play out. Fiscal policy in the U.S. is a mess…</p>
+
+<p>&nbsp;</p>
+
+<p>Duncan Black is depressed. And there is, admittedly, a lot to be depressed about. But I think that the elected politicians here are right. The best thing we can do is to vote in November and throw the fascist bastards out. The second best thing we can do is scare the fascist-enabling bastards today with the thought that they are going to be thrown out in November unless they frantically start blocking the idiocies of Trump’s goons:</p>
+
+<p><strong>Duncan Black</strong>: <em>The Plan Is Hope</em> <a href="https://www.eschatonblog.com/2020/08/the-plan-is-hope.html">https://www.eschatonblog.com/2020/08/the-plan-is-hope.html</a>: ‘I was never a SUPER DC INSIDER, but I used to be a bit more connected.... Not so much anymore.... Members of Congress are tweeting, "nothing we can do, please vote." I am dumb and not important and nobody tells me anything anymore, but…</p>
+
+<p>&nbsp;</p>
+
+<p>This is not coherent: If "those people“ are not going to use their Medicaid benefits because of their attitudes toward life—which the likely future senator from Kansas says he is “not judging”-then those Medicaid benefits are not a burden on the federal or the state treasury, hence not a problem: </p>
+
+<p><strong>Nancy LeTourneau</strong>: <em>The Extremist Agenda of Establishment Republicans</em> <a href="https://washingtonmonthly.com/2020/08/12/whats-the-difference-between-establishment-and-extremist-republicans/">https://washingtonmonthly.com/2020/08/12/whats-the-difference-between-establishment-and-extremist-republicans/</a>: ‘It can be difficult to distinguish between candidates who are “establishment” and those who are “extreme.”... [Roger] Marshall is touting the fact that he is “trusted by Trump”... in the center of efforts to repeal Obamacare and oppose Medicaid expansion in Kansas... "even with unlimited access to health care [they] are only going to use the emergency room when their arm is chopped off or when their pneumonia is so bad they get brought [in]…”</p>
+
+<p>&nbsp;</p>
+
+<p><strong>Steve M.</strong>: <em>Donald Trump, A Force for "Stability"?</em> <a href="https://nomoremister.blogspot.com/2020/07/donald-trump-force-for-stability.html">https://nomoremister.blogspot.com/2020/07/donald-trump-force-for-stability.html</a>: ‘One participant... really seemed to misread the country: "'The more demonstrations there were, the more demands for recounts, the more legal challenges there were, the more funerals for democracy were held, the more Trump came across as the candidate of stability', said Edward Luce, the US editor of the _Financial Times, who played the role of a mainstream media reporter during one of the simulations." Donald Trump has many weapons at his disposal if he wants to try to cling to power after an election loss, but the general impression that he's a figure of stability is not one of them...</p>
+
+<p><strong>Julian E. Zelizer with Rick Perlstein</strong>: _ A discussion of Zelizer's latest book, <em>Burning Down the House: Newt Gingrich, the Fall of a Speaker, and the Rise of the New Republican Party</em> <a href="https://www.youtube.com/watch?time_continue=4&amp;v=lRopePOgjzE&amp;feature=emb_logo">https://www.youtube.com/watch?time_continue=4&amp;v=lRopePOgjzE&amp;feature=emb_logo</a>... </p>
+
+<p><strong>Zack Budryk</strong>: <em>'Pastor who urged people</em> <a href="https://thehill.com/blogs/blog-briefing-room/news/510274-pastor-who-urged-people-not-to-cower-in-fear-tests-positive-for">https://thehill.com/blogs/blog-briefing-room/news/510274-pastor-who-urged-people-not-to-cower-in-fear-tests-positive-for</a> not to "cower in fear" tests positive for coronavirus…</p>
+
+<p><strong>Jo Walton</strong>: <em>Designing People &amp; Societies: C.J. Cherryh’s "Cyteen"</em> <a href="https://www.tor.com/2011/08/08/designing-people-and-societies-cj-cherryhs-cyteen/">https://www.tor.com/2011/08/08/designing-people-and-societies-cj-cherryhs-cyteen/</a>_: "Cherryh chose to show us Union society first from outside in Downbelow Station, where they are the implacable enemy. I didn’t want to read Cyteen when it was first published because I didn’t want to spend that much time in Union. It becomes clear that Alliance don’t understand Union. Close up it’s… both better and worse than it seemed from outside.... If you were an ordinary CIT in Union, your life would be much nicer and more free than I would have imagined. But for an azi or somebody who isn’t ordinary, it’s much worse.... We also know, because Cherryh had written books set later in the history of this universe, that it doesn’t ultimately work.... I’ve probably read Cyteen forty times, but it always grabs me and won’t let go, and I always see more in it...</p>
+
+<p><strong>Brian Resnick &amp; Umair Irfan</strong>: <em>Covid-19 Antibodies, Herd Immunity, &amp; Vaccines, Explained</em> <a href="https://www.vox.com/2020/7/22/21324729/getting-covid-19-twice-immunity-antibodies-vaccine-herd-immunity">https://www.vox.com/2020/7/22/21324729/getting-covid-19-twice-immunity-antibodies-vaccine-herd-immunity</a>: ‘While there is no guarantee that a successful Covid-19 vaccine will be made, some scientists are optimistic that one or more will be available in record time. One big reason: Most people survive the infection on their own, showing that the immune system can be coached to fend off the pathogen.... Our first line of defense against the virus is the cells within us, but stopping the outbreaks will depend on the whole world working together…</p>
+
+<p><strong>Cicero</strong>: <em>Pro Balbo</em>: ‘It has been imputed to [Balbus] also that he has become one of the tribe Clustumina, a privilege which he obtained by means of the law concerning bribery, and which is less invidious than the advantages acquired by those men who, by the assistance of the laws, obtain the power of delivering their opinion as praetor, and of and of wearing the purple-striped toga...</p>
+
+<p><strong>Cicero</strong>: <em>Pro Roscio</em>: 'I come now to that point to which my desire does not lead me, but good faith towards my client. For if I wished to accuse men, I should accuse those men rather by accusing whom I might become more important, which I have determined not to do, as long as the alternatives of accusing and defending are both open to me. For that man appears to me the most honourable who arrives at a higher rank by his own virtue, not he who rises by the distress and misfortunes of another...</p>
+
+<p><strong>Herodian</strong>: <em>Commodus</em> <a href="http://www.tertullian.org/fathers/herodian_01_book1.htm#C1">http://www.tertullian.org/fathers/herodian_01_book1.htm#C1</a>…</p>
+
+<p><strong>Google</strong>: <em>Google One</em> <a href="https://one.google.com/home?utm_medium=email&amp;utm_source=welcome&amp;utm_campaign=new_member_explore_g1_top&amp;utm_content=cta_explore_g1_top">https://one.google.com/home?utm_medium=email&amp;utm_source=welcome&amp;utm_campaign=new_member_explore_g1_top&amp;utm_content=cta_explore_g1_top</a>…</p>
+
+<p>&nbsp;</p>
+
+<h4>Plus:</h4>
+
+<p><strong>Follower of Hieronymus Bosch</strong>: <em>Christ in Limbo</em>:</p>
+
+<p><img style="display:block; margin-left:auto; margin-right:auto;" src="https://delong.typepad.com/img/bosch-school-christ-in-limbo.png" alt="Bosch school christ in limbo" title="bosch-school-christ-in-limbo.png" border="0" width="599" height="486" /></p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.bradford-delong.com/2020/08/briefly-noted-for-2020-08-19.html#more">Continue reading "Briefly Noted for 2020-08-19" &raquo;</a></p>
+                        
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted on August 19, 2020 at 14:27 in <a href="https://www.bradford-delong.com/noted-items-1/">#noted</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.bradford-delong.com/2020/08/briefly-noted-for-2020-08-19.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.bradford-delong.com/2020/08/briefly-noted-for-2020-08-19.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.bradford-delong.com/2020/08/slavery-power-and-cliometrics-a-brief-comment-on-rosenthal-the-economic-historian.html">Brief Procrastinatory Thoughts on American Slavery, Power & Economists' Rhetoric—Highlighted</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p>When the very sharp Eric Hilt writes of "Fogel and Engerman’s analysis of slavery as...brutal but efficient", I wince. "Efficiency" is an engineering term, meaning: achieving maximum productivity with minimum wasted effort or expense. A steam boiler powering the lifting of ore out of a mine that converts only 55% of the stored chemical energy in the coal burned into the extra gravitational potential energy of the ore is 55% efficient. The other 45% of the energy is waste heat. An efficient process is one that produced little waste. In striking contrast with an efficient engine that produces little in the way of waste products, slavery produced enormous amounts of waste: death, family separation, pain, overwork, imprisonment, unfreedom. You can call slavery "brutal, but effective in producing profits for the slavelords", and I will not quarrel: that is very true. But please don't call slavery "efficient". To do so makes a normal person think that you are an empathyless moron, or neo-Confederate-adjacent.</p>
+
+<p>OK. So why does Eric Hilt, who is neither an empathyless moron nor Neo-Confederate-adjacent approvingly cite Fogel and Engerman for their "analysis of slavery as... brutal but efficient"? Because economists redefined "efficient" in a particular way. Economists called a situation "efficient" in which there were no uncompleted win-win market exchanges of commodities for money. And, indeed in slavery, there were no uncompleted win-win market exchanges of commodities for money. American slaves (in contrast to at least some Roman slaves) had no chance or opportunity to buy their freedom. So it was efficient. American slavery would only have been inefficient if masters could have (a) freed their slaves, (b) charged them a market rent for their farms, and (c) collected more in rent than they had previously extracted at the point of the lash.</p>
+
+<p>Now Adam Smith thought that that was in fact the case:</p>
+
+<blockquote>
+  <p>The pride of man makes him love to domineer, and nothing mortifies him so much as to be obliged to condescend to persuade his inferiors. Wherever the law allows it, and the nature of the work can afford it, therefore, he will generally prefer the service of slaves to that of freemen.... The profits of a sugar plantation... are generally much greater than those of any other... and the profits of a tobacco plantation, though inferior to those of sugar, are superior to those of corn.... Both can afford the expense of slave cultivation but sugar can afford it still better than tobacco...</p>
+</blockquote>
+
+<p>I always thought that Fogel and Engerman, in arguing that American slavery was "efficient", were in fact arguing against neo-Confederate-adjacents who lamented the "tragedy" of the Civil War. Their adversaries had thought that what the South needed was not Sherman commanding Thomas and his Army of the Cumberland, Schofield and his Army of the Ohio, and McPherson and his Army of the Tennessee, but rather forebearance and persuasion. That would, in the minds of these adversaries, lead to the diffusion of commercial values into the south, and then the slavelords would realize that they could make more money by going full-throttle toward the market economy, freeing their slaves, and becoming normal landlords than by the continuation of their neo-feudal fantasies.</p>
+
+<p>Adam Smith (and those who followed him in seeing slavery as an expensive luxury chosen only by a ruling class in love with its image of itself as made up of dominating masters) were, I think, wrong—and the work done in <em>Time on the Cross</em> is a good part of what, I think, demonstrates that they were wrong.</p>
+
+<p>But there is still this problem with the word "efficiency". It would be innocuous if you were talking only to economists. It would be innocuous if you wrote, instead "efficiency-in-economese". But writing that slavery is "efficient" when your audience includes any people who are in any way not full-fledged economists expecting you to speak in economese conveys the false message that American slavery was not very <em>wasteful</em>. And yet what is the destruction of humans' autonomous lives that is the core of slavery as an institution and practice but immense waste?</p>
+
+<p><strong>Eric Hilt</strong>: <em>Slavery, Power and Cliometrics: A Brief Comment on Rosenthal</em> <a href="https://economic-historian.com/2020/08/slavery-power-and-cliometrics/">https://economic-historian.com/2020/08/slavery-power-and-cliometrics/</a>: ‘Rather than attempt to comment on all of Rosenthal’s paper, here I would like discuss some insights from the literature on <em>Time on the Cross</em> that relate to some parts of it.... Fogel and Engerman’s analysis of slavery as a brutal but efficient labor system clearly has echoes in some of the new books by historians on slavery...</p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.bradford-delong.com/2020/08/slavery-power-and-cliometrics-a-brief-comment-on-rosenthal-the-economic-historian.html#more">Continue reading "Brief Procrastinatory Thoughts on American Slavery, Power & Economists' Rhetoric—Highlighted" &raquo;</a></p>
+                        
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted on August 19, 2020 at 13:10 in <a href="https://www.bradford-delong.com/economic_history/">#economichistory</a>, <a href="https://www.bradford-delong.com/economics/">#economics</a>, <a href="https://www.bradford-delong.com/highlight/">#highlighted</a>, <a href="https://www.bradford-delong.com/moral-responsibility/">#moralresponsibility</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.bradford-delong.com/2020/08/slavery-power-and-cliometrics-a-brief-comment-on-rosenthal-the-economic-historian.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.bradford-delong.com/2020/08/slavery-power-and-cliometrics-a-brief-comment-on-rosenthal-the-economic-historian.html#comments">Comments (10)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+    
+
+    
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.bradford-delong.com/2020/08/loomis-american-fascism-%C3%BEis-is-%C3%BEe-real-thingnoted.html">Loomis: American Fascism: þis Is þe Real Thing—Noted</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p>I agree with Erik here. The Trump administration isn't "creeping fascism" any more. This is the real thing. Their plan is to have Breitbart, Fox, Sinclair, &amp; QAnon come out hard Wednesday after the election saying "nobody can really tell who won", and then see what happens on the streets: <strong>Erik Loomis</strong>: <em>American Fascism</em> <a href="https://www.lawyersgunsmoneyblog.com/2020/08/american-fascism-3">https://www.lawyersgunsmoneyblog.com/2020/08/american-fascism-3</a>: ‘Anyone who sees this as bluster and doesn’t take it seriously are equivalent to those who didn’t really take Hitler or Mussolini seriously early on: Reporter: "Is the President saying if he doesn't win this election that he will not accept the results unless he wins?" Kayleigh McEnany: "The President has always said he'll see what happens and make a determination in the aftermath"… .#fascism #highlighted #moral responsibility #noted #orangehairedbaboons #moralresponsibility #2020-08-19</p>
+
+			</div>
+			
+
+			
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted on August 19, 2020 at 12:08 in <a href="https://www.bradford-delong.com/highlight/">#highlighted</a>, <a href="https://www.bradford-delong.com/moral-responsibility/">#moralresponsibility</a>, <a href="https://www.bradford-delong.com/noted-items-1/">#noted</a>, <a href="https://www.bradford-delong.com/orangehairedbaboons/">#orangehairedbaboons</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.bradford-delong.com/2020/08/loomis-american-fascism-%C3%BEis-is-%C3%BEe-real-thingnoted.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.bradford-delong.com/2020/08/loomis-american-fascism-%C3%BEis-is-%C3%BEe-real-thingnoted.html#comments">Comments (23)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.bradford-delong.com/2020/08/caesars-army-traps-the-pompeians-liveblogging-%C3%BEe-fall-of-%C3%BEe-roman-republic.html">Caesar's Army Traps the Pompeians: Liveblogging þe Fall of þe Roman Republic</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><img style="display:block; margin-left:auto; margin-right:auto;" src="https://delong.typepad.com/img/mausoleum-of-the-julii-in-glanum.png" alt="Mausoleum of the julii in glanum" title="mausoleum-of-the-julii-in-glanum.png" border="0" width="750" /></p>
+
+<p>The Pompeians attempt to retreat, and then fortify themselves on unfavorable ground with neither water nor forage available: </p>
+
+<p><strong>Gaius Julius Caesar</strong>: <em>The Civil War</em> <a href="https://www.gutenberg.org/cache/epub/10657/pg10657-images.html">http://www.gutenberg.org/cache/epub/10657/pg10657-images.html</a>: ‘Afranius's men were distressed in foraging, and procured water with difficulty. The legionary soldiers had a tolerable supply of corn, because they had been ordered to bring from Ilerda sufficient to last twenty-two days; the Spanish and auxiliary forces had none, for they had but few opportunities of procuring any, and their bodies were not accustomed to bear burdens; and therefore a great number of them came over to Caesar every day...</p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.bradford-delong.com/2020/08/caesars-army-traps-the-pompeians-liveblogging-%C3%BEe-fall-of-%C3%BEe-roman-republic.html#more">Continue reading "Caesar's Army Traps the Pompeians: Liveblogging þe Fall of þe Roman Republic" &raquo;</a></p>
+                        
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted on August 18, 2020 at 11:43 in <a href="https://www.bradford-delong.com/politics/">#politics</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.bradford-delong.com/2020/08/caesars-army-traps-the-pompeians-liveblogging-%C3%BEe-fall-of-%C3%BEe-roman-republic.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.bradford-delong.com/2020/08/caesars-army-traps-the-pompeians-liveblogging-%C3%BEe-fall-of-%C3%BEe-roman-republic.html#comments">Comments (0)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.bradford-delong.com/2020/08/caesar-cuts-the-pompeians-off-from-%C3%BEe-ebro-%C3%BEeir-line-of-retreat-liveblogging-%C3%BEe-fall-of-%C3%BEe-roman-republic.html">Caesar Cuts the Pompeians Off from þe Ebro & þeir Line of Retreat: Liveblogging þe Fall of þe Roman Republic</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><img style="display:block; margin-left:auto; margin-right:auto;" src="https://delong.typepad.com/img/mausoleum-of-the-julii-in-glanum.png" alt="Mausoleum of the julii in glanum" title="mausoleum-of-the-julii-in-glanum.png" border="0" width="750" /></p>
+
+<p>Caesar cuts the Pompeians off from the Ebro River, and begins trying to woo tghe soldiers over to his side. The Pompeian generals Afranius and Petreius react badly—and so it becomes <em>clementia</em> vs. <em>crudelitas</em>: </p>
+
+<p><strong>Gaius Julius Caesar</strong>: <em>The Civil War</em> <a href="https://www.gutenberg.org/cache/epub/10657/pg10657-images.html">http://www.gutenberg.org/cache/epub/10657/pg10657-images.html</a>: ‘The contest depended entirely on despatch, which should first get possession of the defile and the mountain. The difficulty of the roads delayed Caesar's army, but his cavalry pursuing Afranius's forces, retarded their march. However, the affair was necessarily reduced to this point, with respect to Afranius's men, that if they first gained the mountains, which they desired, they would themselves avoid all danger, but could not save the baggage of their whole army, nor the cohorts which they had left behind in the camps, to which, being intercepted by Caesar's army, by no means could assistance be given...</p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.bradford-delong.com/2020/08/caesar-cuts-the-pompeians-off-from-%C3%BEe-ebro-%C3%BEeir-line-of-retreat-liveblogging-%C3%BEe-fall-of-%C3%BEe-roman-republic.html#more">Continue reading "Caesar Cuts the Pompeians Off from þe Ebro & þeir Line of Retreat: Liveblogging þe Fall of þe Roman Republic" &raquo;</a></p>
+                        
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted on August 17, 2020 at 17:22 in <a href="https://www.bradford-delong.com/politics/">#politics</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.bradford-delong.com/2020/08/caesar-cuts-the-pompeians-off-from-%C3%BEe-ebro-%C3%BEeir-line-of-retreat-liveblogging-%C3%BEe-fall-of-%C3%BEe-roman-republic.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.bradford-delong.com/2020/08/caesar-cuts-the-pompeians-off-from-%C3%BEe-ebro-%C3%BEeir-line-of-retreat-liveblogging-%C3%BEe-fall-of-%C3%BEe-roman-republic.html#comments">Comments (3)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+    
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.bradford-delong.com/2020/08/howes-the-spanish-enginenoted.html">Howes: The Spanish Engine—Noted</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><strong>Anton Howes</strong>: <em>The Spanish Engine</em> <a href="https://antonhowes.substack.com/p/age-of-invention-the-spanish-engine">https://antonhowes.substack.com/p/age-of-invention-the-spanish-engine</a>: ‘Jerónimo de Ayanz y Beaumont.... The steam engines invented by Savery and then Newcomen in the 1690s and 1700s mainly exploited the observation that the air had a weight...</p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.bradford-delong.com/2020/08/howes-the-spanish-enginenoted.html#more">Continue reading "Howes: The Spanish Engine—Noted" &raquo;</a></p>
+                        
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted on August 16, 2020 at 12:28 in <a href="https://www.bradford-delong.com/economics_growth/">#economicgrowth</a>, <a href="https://www.bradford-delong.com/economic_history/">#economichistory</a>, <a href="https://www.bradford-delong.com/noted-items-1/">#noted</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.bradford-delong.com/2020/08/howes-the-spanish-enginenoted.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.bradford-delong.com/2020/08/howes-the-spanish-enginenoted.html#comments">Comments (4)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.bradford-delong.com/2020/08/search-jefferson-quotes-family-letters.html">Jefferson: Notes on Virginia—Noted</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><strong>Thomas Jefferson</strong>: <em>Notes on þe State of Virginia</em> <a href="http://tjrs.monticello.org/letter/1314">http://tjrs.monticello.org/letter/1314</a>: ‘Deep rooted prejudices entertained by the whites; ten thousand recollections, by the blacks, of the injuries they have sustained; new provocations; the real distinctions which nature has made... will divide us into parties, and produce convulsions which will probably never end but in the extermination of the one or the other race.... Comparing them by their faculties of memory, reason, and imagination, it appears to me that in memory they are equal to the whites; in reason much inferior, as I think one could scarcely be found capable of tracing and comprehending the investigations of Euclid: and that in imagination they are dull, tasteless, and anomalous.... We know that among the Romans, about the Augustan age especially, the condition of their slaves was much more deplorable than that of the blacks on the continent of America… .#noted #2020-08-16</p>
+
+			</div>
+			
+
+			
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted on August 16, 2020 at 11:54 in <a href="https://www.bradford-delong.com/noted-items-1/">#noted</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.bradford-delong.com/2020/08/search-jefferson-quotes-family-letters.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.bradford-delong.com/2020/08/search-jefferson-quotes-family-letters.html#comments">Comments (6)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.bradford-delong.com/2020/08/tim-scott-the-only-african-american-senator-in-the-united-states-republican-party-is-playing-a-very-difficult-political-han.html">Coaston: Sen. Tim Scott on Police Reform—Noted</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p>Tim Scott, the only African-American senator in the United States republican party, is playing a very difficult political hand with great skill given who his allies and who his constituents are. This is very much worth reading as a window. It is a window into, if not his mind, at least his public presentation of self: </p>
+
+<p><strong>Jane Coaston</strong>: <em>Sen. Tim Scott on Police Reform &amp; Why Ending Qualified Immunity Is a Nonstarter for the GOP</em> <a href="https://www.vox.com/2020/7/7/21311493/tim-scott-race-policing-justice-act-reform">https://www.vox.com/2020/7/7/21311493/tim-scott-race-policing-justice-act-reform</a>: ‘Sen. Tim Scott of South Carolina, the only Black Republican serving in the US Senate, has an additional, unenviable task beyond his usual legislative portfolio: talking to his colleagues, and Republicans in general, about the issues of race and policing with which he has an intimate familiarity. “I, like many other Black Americans, have found myself choking on my own fears and disbelief when faced with the realities of an encounter with law enforcement,” he wrote in an op-ed in USA Today earlier this year, detailing experiences that began when he was 21 and have continued into his time in Congress.... Sen. Scott and I talked about police reform, qualified immunity for officers and why eliminating it is a “poison pill” for Republicans, race and racism, and our own family experiences of bad policing. He told me Floyd’s death had launched a “tectonic shift on the underlying issue” of police brutality. “I hope that we don’t miss this opportunity” to address it, he said…</p>
+
+<pre><code>.#noted #2020-08-16
+</code></pre>
+
+			</div>
+			
+
+			
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted on August 16, 2020 at 11:46 in <a href="https://www.bradford-delong.com/noted-items-1/">#noted</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.bradford-delong.com/2020/08/tim-scott-the-only-african-american-senator-in-the-united-states-republican-party-is-playing-a-very-difficult-political-han.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.bradford-delong.com/2020/08/tim-scott-the-only-african-american-senator-in-the-united-states-republican-party-is-playing-a-very-difficult-political-han.html#comments">Comments (1)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+    
+
+
+
+
+<!-- entry shared -->
+
+<article class="post entry">
+
+
+
+<!-- DISPLAY FULL POSTS-->
+
+     
+
+       <h2 class="entry-header font-entryheader">
+           
+        <span class="entry-title">
+<a href="https://www.bradford-delong.com/2020/08/briefly-noted-for-2020-08-16.html">Briefly Noted for 2020-08-16</a>
+        </span>
+       </h2>
+
+
+
+
+
+			<div class="entry-body font-entrybody">
+				<p><strong>FRED</strong>: <em>Continued Claims (Insured Unemployment) (CCSA)</em> <a href="https://fred.stlouisfed.org/series/CCSA">https://fred.stlouisfed.org/series/CCSA</a>…</p>
+
+<p>&nbsp;</p>
+
+<p>Once again: suppress the virus so that nobody who comes into close contact with an elderly or comorbid relative has great reason for fear, and the economy will then recover. Fail to suppress the virus to that extent, and the economy will remain in depression:</p>
+
+<p><strong>Anne O. Krueger</strong>: <em>The Open Secret to Reopening the Economy</em> <a href="https://www.project-syndicate.org/commentary/covid19-virus-will-decide-when-economy-can-reopen-by-anne-krueger-2020-07">https://www.project-syndicate.org/commentary/covid19-virus-will-decide-when-economy-can-reopen-by-anne-krueger-2020-07</a>: ‘Areas that eased their initial COVID-19 lockdowns and now have surging infection rates are a testament to all that has gone wrong in the pandemic. The lesson from day one still holds: until the virus is defeated, there can be no return to normal...</p>
+
+<p>&nbsp; </p>
+
+<p>One of the best attempts I have ever seen to think through the mobilization of consent for right-wing anti-democracy in the modern age:    </p>
+
+<p><strong>Sergei Guriev &amp; Daniel Treisman</strong>: <em>Informational Autocracy: Theory and Empirics of Modern Authoritarianism</em> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2571905">https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2571905</a>: ‘In recent decades, dictatorships based on mass repression have largely given way to a new model based on the manipulation of information... convincing the public they are competent... propaganda and silence informed members of the elite by co-optation or censorship... a rhetoric of performance rather than one aimed at inspiring fear…</p>
+
+<p>&nbsp; </p>
+
+<p>The Bloomberg editorial board says, with respect to the Judy Shelton Federal Reserve nomination, that water is wet: </p>
+
+<p><strong>Bloomberg Editorial Board</strong>: <em>Judy Shelton Nomination: The Fed Doesn’t Need This Disruption</em> <a href="https://www.bloomberg.com/opinion/articles/2020-07-21/judy-shelton-nomination-the-fed-doesn-t-need-this-disruption">https://www.bloomberg.com/opinion/articles/2020-07-21/judy-shelton-nomination-the-fed-doesn-t-need-this-disruption</a>: ‘Shelton... was long an ardent supporter of a return to the gold standard, a defunct system that entailed making the dollar convertible into a stable.... More recently, before the pandemic hit and as her nomination was in train, she did an about-face, aligning herself with Trump’s demands for the Fed to stimulate growth by lowering interest rates. Either way, Shelton is unlikely to be a reliably stabilizing force at a time when stability is needed most...</p>
+
+<p>&nbsp; </p>
+
+<p>The hope was that a small increase in the share of people with college degrees would, if demand curves had the right slopes, have a large effect on the only-high-school wage discount. It looks as though this hope was in vain: </p>
+
+<p><strong>Kathryn Zickuhr</strong>: <em>A College Degree Is Not the Solution to U.S. Wage Inequality</em> <a href="https://equitablegrowth.org/a-college-degree-is-not-the-solution-to-u-s-wage-inequality/">https://equitablegrowth.org/a-college-degree-is-not-the-solution-to-u-s-wage-inequality/</a>: ‘The skills gap... fails to account for declining worker power and... monopsony.... Policymakers need to improve the underlying labor market conditions for all workers, instead of shifting responsibility…</p>
+
+<p>&nbsp; </p>
+
+<p>The hard truth is that we need another month-long lockdown, but that a month-long lockdown is only worth doing if it is properly followed up. And—given the grifters, ghouls, and easily-grifted gulls on the Republican side of at the aisle—I see no prospect of a proper follow-up until January 21, 2021 at the earliest: </p>
+
+<p><strong>Heather Boushey</strong>: <em>'In another world</em> <a href="https://twitter.com/HBoushey/status/1289222754236071941">https://twitter.com/HBoushey/status/1289222754236071941</a>, a sharp drop in activity would have been just a good, necessary blip while we addressed the virus.... We did not get the virus under control <a href="https://www.nytimes.com/2020/07/30/business/economy/q2-gdp-coronavirus-economy.html">https://www.nytimes.com/2020/07/30/business/economy/q2-gdp-coronavirus-economy.html</a>…</p>
+
+<p>&nbsp; </p>
+
+<p><strong>Techopia</strong>: <em>Why China Does Have an Advantage in the Fourth Industrial Revolution</em> <a href="https://www.techopia.co/post/why-china-advantage-fourth-industrial-revolution-ai">https://www.techopia.co/post/why-china-advantage-fourth-industrial-revolution-ai</a>: ‘We see no reason why the lessons of The Innovator's Dilemma can't apply to nations. China has been investing in new specialisms while the rest of the world watches on.... The first stage of a technology evolution is proving it and evolving it to be adoptable. The second phase is its fuller adoption, disruption of incumbents and productivity benefits. The markets are not always good at funding technologies before these benefits have set in, particularly when these require significant capital expenditure...</p>
+
+<p><strong>Wikipedia</strong>: <em>Scipio Aemilianus</em> <a href="https://en.wikipedia.org/wiki/Scipio_Aemilianus">https://en.wikipedia.org/wiki/Scipio_Aemilianus</a>…</p>
+
+<p><strong>Wikipedia</strong>: <em>Publius Cornelius Scipio Nasica Serapio</em> <a href="https://en.wikipedia.org/wiki/Publius_Cornelius_Scipio_Nasica_Serapio">https://en.wikipedia.org/wiki/Publius_Cornelius_Scipio_Nasica_Serapio</a>…</p>
+
+<p><strong>MAD Gaze</strong>: _ GLOW: Stylish MR Smart Glasses by MAD Gaze_ <a href="https://www.kickstarter.com/projects/madgaze/mad-gaze-glow-lightweight-and-stylish-mr-glasses-for-you/">https://www.kickstarter.com/projects/madgaze/mad-gaze-glow-lightweight-and-stylish-mr-glasses-for-you/</a> <a href="https://www.youtube.com/watch?v=f53vZowtfmo&amp;feature=emb_logo">https://www.youtube.com/watch?v=f53vZowtfmo&amp;feature=emb_logo</a>…</p>
+
+<p>&nbsp;</p>
+
+<h4>Plus:</h4>
+
+<p><strong>Randall Munroe</strong>: <em>xkcd: Git</em> <a href="https://xkcd.com/1597/">https://xkcd.com/1597/</a></p>
+
+<p><img src='https://imgs.xkcd.com/comics/git.png' style="display:block; margin-left:auto; margin-right:auto;" height="600" /></p>
+
+			</div>
+			
+			    <p class="entry-more-link font-entrybody"><a href="https://www.bradford-delong.com/2020/08/briefly-noted-for-2020-08-16.html#more">Continue reading "Briefly Noted for 2020-08-16" &raquo;</a></p>
+                        
+
+
+
+
+
+<hr />
+
+
+<div class="entry-footer">
+          <p class="entry-footer-info font-entryfooter"><span class="post-footers">Posted on August 16, 2020 at 11:24 in <a href="https://www.bradford-delong.com/noted-items-1/">#noted</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.bradford-delong.com/2020/08/briefly-noted-for-2020-08-16.html">Permalink</a>
+
+ 
+	<span class="separator"> | </span>
+	
+			 <a class="entry-comments" href="https://www.bradford-delong.com/2020/08/briefly-noted-for-2020-08-16.html#comments">Comments (8)</a>
+	
+
+
+          </p>
+
+
+          <!-- technorati tags -->
+
+
+
+          <!-- post footer links -->
+
+</div>
+
+
+</article>
+ 
+
+
+
+
+
+
+
+   <div class="bottom-featured">   </div>
+
+
+       
+       
+       <div class="pager-bottom pager-entries pager content-nav">
+                <div class="pager-inner">
+                        
+
+                        
+                        <a href="https://www.bradford-delong.com/page/2/">
+                        <span class="pager-right">
+                        <span class="pager-label">Older</span>
+                        <i class="fas fa-arrow-circle-right"></i> 
+                        </span></a>
+                        
+                </div>
+        </div>
+        
+        
+ 
+
+
+                    </div></div>
+
+                </div>
+                <div class="col-sm-12">
+
+                    <aside class="widgets">
+                      <div class="widgets-inner">
+<!-- custom_code.tt --><div class="module-custom_html module">
+    <div class="module-content">
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick" />
+<input type="hidden" name="hosted_button_id" value="QNH63TEQECA26" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" border="0" name="submit" title="Support this weblog" alt="Support this weblog" />
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
+
+
+    </div>
+</div>
+<!-- end custom_code.tt -->
+<div class="module-search module">
+    <h2 class="module-header">Search</h2>
+    <div class="module-content">
+        <form id="search-blog" method="get" action="https://www.bradford-delong.com/.services/blog/6a00e551f08003883400e551f080068834/search" class="form-search form-inline" role="search">
+            
+<div class="form-group"><input type="search" name="filter.q" results="5" value="" class="form-control" placeholder="Search" /></div><button type="submit" value="Search" class="btn btn-default">Submit</button>
+
+        </form>
+    </div>
+</div>
+<!-- END Blog Search Module -->
+<!-- list_inlcude.tt  -->
+<div id="about_brad_delong" class="module-typelist module">
+<h2 class="module-header">>About Brad DeLong</h2>
+	<div class="module-content">
+		<ul class="module-list">
+							<li class="module-list-item"><a title="" href="https://www.bradford-delong.com/short-biography.html" target="_blank">Brad DeLong's Short Biography</a></li>
+			
+		</ul><!-- last /ul -->
+	</div>
+</div>
+<!-- end list_include.tt -->
+
+
+                      </div>
+                    </aside>
+
+
+                </div>
+            </div>
+
+     
+
+
+<!-- footer -->
+<div id="footer">
+<div class="row well"><div class="col-md-12">
+        <div id="footer-inner">
+                <p><a href="https://delong.typepad.com/2019-delong-weblog/">DeLong's Grasping Reality</a> &copy; J. Bradford DeLong 1995-2019</p>
+
+<script>var pfHeaderImgUrl = '';var pfHeaderTagline = '';var pfdisableClickToDel = 0;var pfHideImages = 0;var pfImageDisplayStyle = 'right';var pfDisablePDF = 0;var pfDisableEmail = 0;var pfDisablePrint = 0;var pfCustomCSS = '';var pfBtVersion='2';(function(){var js,pf;pf=document.createElement('script');pf.type='text/javascript';pf.src='//cdn.printfriendly.com/printfriendly.js';document.getElementsByTagName('head')[0].appendChild(pf)})();</script><a href="https://www.printfriendly.com" style="color:#6D9F00;text-decoration:none;" class="printfriendly" onclick="window.print();return false;" title="Printer Friendly and PDF"><img style="border:none;-webkit-box-shadow:none;box-shadow:none;" src="//cdn.printfriendly.com/buttons/printfriendly-pdf-email-button-md.png" alt="Print Friendly and PDF"/></a>
+        </div>
+        <a href="#top" id="toplink"><div id="footer-toplink">
+           <div id="footer-arrow"><i class="fas fa-arrow-circle-up"></i></div>
+           <div id="footer-top"><span class="footer-top-inner font-footer">Top</span></div>
+        </div></a>
+</div></div>
+</div>
+
+
+     <!-- foot-scripts -->
+          <!-- foot-scripts-1 -->
+    <script src="//code.jquery.com/jquery-1.11.2.min.js"></script>
+
+    <script src="https://static.typepad.com/.shared/themes/common/bootstrap/js/bootstrap.min.js"></script>
+
+
+
+
+
+          
+
+
+
+
+
+          <!-- foot-scripts-2 -->
+    <script src="https://static.typepad.com/.shared/js/classie.js"></script>
+    <script src="https://static.typepad.com/.shared/js/sidebarEffects.js"></script>
+    <script src="https://static.typepad.com/.shared/js/jquery.masonry.min.js"></script>
+    <script src="https://static.typepad.com/.shared/js/imagesloaded.pkgd.min.js"></script>
+    <script src="https://static.typepad.com/.shared/js/jquery.livequery.min.js"></script>
+<script>
+    var j = $.noConflict(true);
+
+
+
+function check_css_size() {
+    if (j("#mysize").css("float") == "right" ){ mod_pos = 'side'; }
+    else if (j("#mysize").css("float") == "none" ){ mod_pos = 'bottom'; }
+}
+
+//TALL COLUMNS
+
+var three_col, no_marg, sh_hgt, c_hgt, c_loaded, mod_pos, b_wdth;
+
+
+
+
+function tallCols() {
+    /*
+     * responsive, bootstrap or something always includes margins
+     * so we don't collapse to two columns until we get to body width of 972 if no margins
+     * and not the usual 992
+     * which means there's probably a layout bug somewhere else
+    */
+    if (no_marg) {
+        b_wdth += 20;
+    }
+    // console.log("three col: "+three_col+" sh_hgt: "+sh_hgt+" c_hgt: "+c_hgt+" body width: "+b_wdth+" no marg: "+no_marg);
+    if (three_col && b_wdth < 992 && b_wdth > 768) {
+        if (no_marg) {
+            col_hgt = (c_hgt/2);
+        }
+        else {
+            col_hgt = (c_hgt/2)-10;
+        }
+        if (c_hgt > sh_hgt*2) {
+            j('.widgets').outerHeight(col_hgt);
+            j('.left-container').outerHeight(c_hgt);
+        } else {
+            j('.left-container').outerHeight(col_hgt*2);
+            j('.widgets').outerHeight(col_hgt);
+        }
+    }
+    else {
+        if (c_hgt > sh_hgt) {
+            j('.widgets').outerHeight(c_hgt);
+            j('.left-container').outerHeight(c_hgt);
+        } else {
+            j('.left-container').outerHeight(sh_hgt);
+            j('.widgets').outerHeight(sh_hgt);
+        }
+    }
+}
+
+var triggered; var dtriggered;
+  j(window).load(function(){
+
+    var eventFunction = function (event) {
+        j(document.body).trigger('click');
+        setTimeout(eventFunction, 100);
+    };
+    eventFunction();
+
+    //sharethis
+    j('#stwrapper').livequery(
+     function() {
+       triggered = 1;
+       j("#stwrapper").expire();
+       j(".st_sharethis_vcount .stButton").height('75px');
+       c_hgt = j('.left-container-inner').outerHeight();
+       sh_hgt = j('.widgets-inner').prop('scrollHeight');
+       sh_hgt = sh_hgt + 60;
+       tallCols();
+      });
+    //disqus
+    j('#conversation').livequery(
+     function() {
+       dtriggered = 1;
+       j("#conversation").expire();
+       c_hgt = j('.left-container-inner').outerHeight();
+       sh_hgt = j('.widgets-inner').prop('scrollHeight');
+       sh_hgt = sh_hgt + 60;
+       tallCols();
+      });
+
+  });
+
+
+
+        // SCROLL TO TOP
+        (function($) {
+          j('a[href*=#]:not([href=#])').click(function() {
+            if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+              var target = j(this.hash);
+              target = target.length ? target : j('[name=' + this.hash.slice(1) +']');
+              if (target.length) {
+                j('html,body').animate({
+                  scrollTop: target.offset().top
+                }, 1000);
+                return false;
+              }
+            }
+          });
+        })(jQuery);
+
+        // PREV/NEXT ON IA
+        (function($) {
+        j(window).scroll(function() {
+            if (j(this).scrollTop()) {
+                j('#previous_story:hidden').stop(true, true).fadeIn();
+                j('#next_story:hidden').stop(true, true).fadeIn();
+            } else {
+                j('#previous_story').stop(true, true).fadeOut();
+                j('#next_story').stop(true, true).fadeOut();
+            }
+        });
+        })(jQuery);
+
+
+        // SLIDE-IN NAV
+        (function($) {
+        j( ".close-side-menu" ).click(function() {
+            j('#st-container').removeClass('st-menu-open');
+        });
+        })(jQuery);
+
+         //MASONRY
+              
+                   j('.widgets-inner').addClass('bottomwidgets');
+              
+
+function changeCols() {
+        (function($) {
+              
+                check_css_size();
+                if(mod_pos == 'bottom') {
+                   j('.widgets-inner').addClass('bottomwidgets');
+                     
+                        
+                        j('.widgets,.left-container').removeAttr("width").removeAttr("height").css({ width: "", height: "" });
+                        
+                     
+                 } else {
+                   j('.widgets-inner').removeClass('bottomwidgets');
+                 }
+              
+        })(jQuery);
+}//function
+
+j(document).ready(function($) {
+   changeCols();
+});
+
+j(window).resize(function( event ) {
+        changeCols();
+});
+
+
+(function($) {
+  j(window).load(function(){
+        var $ctCollContainer = j('.widgets-inner');
+
+           j('.twitter-timeline').closest( ".module" ).height('300px');
+           j('.fb_iframe_widget').closest( ".module" ).height('230px');
+
+           $ctCollContainer.imagesLoaded( function(){
+              $ctCollContainer.masonry({
+                    itemSelector: '.module',
+                    "gutter": 20,
+               });
+
+               var msnry = $ctCollContainer.data('masonry');
+
+               msnry.on( 'layoutComplete', function( msnryInstance, laidOutItems ) {
+                 //console.log('Masonry layout completed on ' + laidOutItems.length + ' items');
+                    
+               });
+
+               msnry.layout();
+                $ctCollContainer.masonry('reloadItems');
+
+            });//end imagesloaded
+      });
+})(jQuery);
+
+
+
+//banner image loaded
+        (function($) {
+        bg = j('#banner').css('background-image');
+
+       if (bg && bg !='none') {
+         var src = bg.replace(/(^url\()|(\)$|[\"\'])/g, '');
+           $img = j('<img>').attr('src', src).on('load', function() {
+              j('#banner-title, #banner-desc').show();
+           });
+        } else {
+              j('#banner-title, #banner-desc').show();
+        }
+        })(jQuery);
+
+//default highlight bar from theme colors
+
+function hexToRgb(hex) {
+   var result = /^#?([a-f\d]{2})([a-f\d]{2})([a-f\d]{2})$/i.exec(hex);
+    r = parseInt(result[1], 16);
+    g = parseInt(result[2], 16);
+    b = parseInt(result[3], 16);
+    j('.overlay-text').css('background', 'rgba(' + r + ',' + g + ',' + b + ',0.7)');
+}
+hexToRgb("#FFFFFF");
+
+
+//nav-highlight
+(function($){
+  j('.navtext a').each(function() {
+    if (j(this).prop('pathname') == window.location.pathname) {
+      j(this).addClass('currentnav');
+    }
+  });
+})(jQuery);
+
+        </script>
+
+        </div>
+
+    </main>
+
+<div id="mysize" style="display: none"></div>
+
+<script type="text/javascript">
+<!--
+var extra_happy = Math.floor(1000000000 * Math.random());
+document.write('<img src="https://www.typepad.com/t/stats?blog_id=122712&amp;user_id=106400&amp;page=' + escape(location.href) + '&amp;referrer=' + escape(document.referrer) + '&amp;i=' + extra_happy + '" width="1" height="1" alt="" style="position: absolute; top: 0; left: 0;" />');
+// -->
+</script>
+
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-10828865-1 ', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+
+
+
+<!-- Begin disqus Tag -->
+
+<!-- End disqus Tag -->
+</body>
+</html>
+
+
+
+<!-- ph=1 -->
