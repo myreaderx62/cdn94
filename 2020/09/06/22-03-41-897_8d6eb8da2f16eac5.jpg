@@ -1,0 +1,1260 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+	"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" id="typepad-standard" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+	<!-- head-common -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="generator" content="http://www.typepad.com/" />
+    <!--start dfp generic header code-->
+<script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+<!--end dfp generic header code-->
+
+<!--start dfp 160 header code-->
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+googletag.defineSlot('/12112607/CADinsider', [160, 600], 'div-gpt-ad-1407106385596-0').addService(googletag.pubads());
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>
+<!--end dfp 160 header code-->
+
+
+	<meta name="keywords" content="CAD, CAE, CAM" />
+	<meta name="description" content="Inside look at the CAD, CAM and CAE industry by Roopinder Tara" />
+    <link rel="canonical" href="https://www.thecadinsider.com/" />
+
+
+
+        <link rel="stylesheet" href="https://www.thecadinsider.com/styles.css?v=6" type="text/css" media="screen" />
+        <link rel="stylesheet" href="https://static.typepad.com/.shared/themes/common/print.css" type="text/css" media="print" />
+
+<link rel="stylesheet" href="https://static.typepad.com/.shared/css/featherlight-gallery.css">
+
+<!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+
+	<link rel="alternate" type="application/atom+xml" title="Posts on 'The CAD Insider' (Atom)" href="https://www.thecadinsider.com/atom.xml" />
+	<link rel="alternate" type="application/rss+xml" title="Posts on 'The CAD Insider' (RSS 1.0)" href="https://www.thecadinsider.com/index.rdf" />
+	<link rel="alternate" type="application/rss+xml" title="Posts on 'The CAD Insider' (RSS 2.0)" href="https://www.thecadinsider.com/rss.xml" />
+	<script type="text/javascript">
+		var TPApp = {};
+		TPApp.app_uri = "https://www.typepad.com/";
+	</script>
+	<script type="text/javascript" src="https://static.typepad.com/.shared/js/yui/yahoo-dom-event.js,/js/app/thumbnail-gallery-min.js,/js/app/flyouts-min.js"></script>
+
+
+
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-225723-36', 'auto', {'name': 'Typepad'}, {'allowLinker': true} );  // Separate tracker for Typepad.
+ga('Typepad.require', 'linker');
+ga('Typepad.linker:autoLink', ['none']);
+ga('Typepad.set', 'dimension1', '6a00d834538fbb69e200d83453902669e2');
+ga('Typepad.set', 'dimension2', 'index');
+ga('Typepad.send', 'pageview');
+</script>
+
+
+
+<meta property="og:title" content="The CAD Insider" />
+<meta property="og:site_name" content="The CAD Insider" />
+<meta property="og:type" content="blog" />
+<meta property="og:url" content="https://www.thecadinsider.com/" />
+<meta property="og:description" content="An inside look at the CAD, CAM and CAE industry - by Roopinder Tara" />
+<meta property="fb:admins" content="" />
+<meta property="og:image" content="https://up3.typepad.com/6a00d834538fbb69e201a3fca963a0970b-220si" />
+
+
+
+	<title>The CAD Insider</title>
+	<link rel="openid.server" href="https://www.typepad.com/services/openid/server" />
+	<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.typepad.com/services/rsd/6a00d834538fbb69e200d83453902669e2" />
+			<link rel="meta" type="application/rdf+xml" title="FOAF" href="https://cadinsider.typepad.com/foaf.rdf" />
+	
+        
+</head>
+
+
+
+<body class="layout-two-column-right index">
+	
+	<div id="container" class="container">
+		<div id="container-inner" class="pkg">
+			
+        	<div class="row">
+     
+
+
+<a id="home"></a>
+   
+
+<!-- banner -->
+<div id="banner">
+	<div id="banner-inner" class="pkg">
+		
+		<h1 id="banner-header"><a href="https://www.thecadinsider.com/" accesskey="1">The CAD Insider</a></h1>
+		<h2 id="banner-description">
+			An inside look at the CAD, CAM and CAE industry - by Roopinder Tara
+		</h2>
+	</div>
+</div>
+
+
+<div id="nav">
+	<div id="nav-inner">
+		<ul class="nav-list pkg">
+			<li class="nav-list-item"><a href="http://cadinsider.typepad.com/my_weblog/">Home</a></li>
+			<li class="nav-list-item"><a href="http://cadinsider.typepad.com/my_weblog/archives.html">Archives</a></li>
+			<li class="nav-list-item"><a href="http://profile.typepad.com/rtara">Profile</a></li>
+			<li class="last-nav-list-item nav-list-item"><a href="http://cadinsider.typepad.com/my_weblog/atom.xml">Subscribe</a></li>
+		</ul>
+	</div>
+</div>
+
+
+
+
+                        <div id="pagebody">
+                        
+
+                                <div id="pagebody-inner" class="pkg">
+                                        <div id="alpha">
+                                                <div id="alpha-inner" class="pkg">
+                                                        
+
+
+
+
+
+<!-- CAROUSEL POSTS -->
+
+
+<!-- entry list sticky -->
+
+
+<!-- REGULAR POSTS -->
+
+
+
+    
+
+
+
+
+    <h2 class="date-header">April 15, 2020</h2>
+
+	<div class="entry-category-travel entry-author-roopinder_tara entry-type-post entry" id="entry-6a00d834538fbb69e20240a4fc02ff200d">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://www.thecadinsider.com/2020/04/coronovirus-makes-for-better-views-himalayan-mountains-pop-into-view-.html">Coronovirus Giving Us Great Views. Himalayan Mountains Pop Into View in India. </a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<div style="text-align: center;"><a class="asset-img-link" href="https://cadinsider.typepad.com/.a/6a00d834538fbb69e2025d9b46bc68200c-popup" onclick="window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false"><img alt="Dhauladhar-himalyas" class="asset  asset-image at-xid-6a00d834538fbb69e2025d9b46bc68200c img-responsive" src="https://cadinsider.typepad.com/.a/6a00d834538fbb69e2025d9b46bc68200c-500wi" style="display: block; margin-left: auto; margin-right: auto;" title="Dhauladhar-himalyas" /></a><br /><em>Himalayas pop into view, as welcome but unintended consequence of the Coronavirus. (Picture courtesy of CNN)</em></div>
+<div>&#0160;</div>
+<div>Mt Everest grows by a quarter inch a year due to the unrelenting push of the India land mass into the Eurasian plate. That has created the Himalayan mountains range over millions of years. But to those who woke up in the north of Punjab in the middle of last month, it must have seemed liked they popped up overnight.</div>
+<div>&#0160;</div>
+<div>When I was a kid, in Dharamsala, Ludhianna, even Chandigargh, I could see the snowy peaks. I imagined Mt Everest, but that was far off, over the horizon. Still, the ridge of mountains remains a lasting refrain, an image, a little fuzzy after 50 years later but one that still guides me toward mountains, wherever I am living.</div>
+<div>&#0160;</div>
+<div>These days, I live in California. I remember Mom telling me of her visit to Simla, the hill station favored by the British, to get away from India&#39;s oppressive heat. I remember the mountains, always with snow on them, from our house in Dharamsala, where my father was dean of the college, and where I met the Dali Lama. He was at a ceremony. He was dressed strange. I remember orange. I was 5 years old.&#0160;</div>
+<div>&#0160;</div>
+<div>The Himalyas had been cloaked in air pollution, their majesty hidden to at least one generation. India, in its modernization, took to the internal combustion engine, the oil and coal burning of the industrialized nations to heart. The sky, once just filled with dust, smoke from dung fires, became full with so much particulate matter that the mountains were completery obscured.</div>
+<div><a class="asset-img-link" href="https://cadinsider.typepad.com/.a/6a00d834538fbb69e20240a520c59d200b-popup" onclick="window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false"><img alt="Scootercab" class="asset  asset-image at-xid-6a00d834538fbb69e20240a520c59d200b img-responsive" src="https://cadinsider.typepad.com/.a/6a00d834538fbb69e20240a520c59d200b-500wi" style="display: block; margin-left: auto; margin-right: auto;" title="Scootercab" /></a></div>
+<div style="text-align: center;"><em>India, with thousands of two-cycle engine scooter cabs, have been making travel convenient but breathing difficult. <br />(Picture courtesy of Tech Crunch)</em></div>
+<div style="text-align: center;">&#0160;</div>
+<div>Now, COVID-19 has put the brakes on the scooter cabs. Their oil-burning two-cycle engine has gone silent.&#0160; Dehli, Mumbai, Kolkata take their turns as having the worst air in the world. Living there is like smoking a pack of cigarettes a day -- if not worse. Most Inidians are sick a lot If not from the air, it&#39;s from the water.</div>
+<div>&#0160;</div>
+<div>The&#0160;Coronavirus, deadly and sickening as it is, has brought the scooter cabs to a halt. No longer are they belching black smoke.</div>
+<div>&#0160;</div>
+<div>And the Himalayas never looked better.&#0160;</div>
+<div>&#0160;</div>
+<div>&#0160;</div>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 08:06 PM in <a href="https://www.thecadinsider.com/travel/">Travel</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.thecadinsider.com/2020/04/coronovirus-makes-for-better-views-himalayan-mountains-pop-into-view-.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://www.thecadinsider.com/2020/04/coronovirus-makes-for-better-views-himalayan-mountains-pop-into-view-.html#comments">Comments (1)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00d834538fbb69e20240a4fc02ff200d'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    <h2 class="date-header">March 30, 2020</h2>
+
+	<div class="entry-author-roopinder_tara entry-type-post entry" id="entry-6a00d834538fbb69e20240a4f736eb200d">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://www.thecadinsider.com/2020/03/report-from-marin-not-a-lockdown-week-2.html">Report from Marin. Not a Lockdown. Week 2.</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<div>Now in the 2nd week. We have put ourselves in a self-imposed quarantine. No symptoms. Overabundance of caution, I guess.</div>
+<div>&#0160;</div>
+<div>A trip to the grocery store (allowed under the law), nevertheless. We gear up like a raid. Masks. Check. Sanitzer in the car. Check. Felt really wierd. The other shoppers in masks (about 20% of them) understood. But others come too close.&#0160; Within 6 feet. What are you going to do? I thank the cashier. She had no mask on. I&#39;m sure she had no choice but to be there.&#0160;</div>
+<div>&#0160;</div>
+<div>All the news is about the virus.&#0160;</div>
+<div>&#0160;</div>
+<div>In India, a 150,000 migrant workers cram into bus stations in New Delhi. They need to get back to their villages because with everyone in lockdown, there is no work for them. It&#39;s like that all over India. Over 1 billion people in lockdown. The most of any country. One man is walking home with his family, a distance of over a hundred miles. Some Indians, presumably the ones living at street level, have taken to the trees in an attempt to get the social distance they need. There you have it. We are nothing but monkeys, back in the trees.&#0160;</div>
+<div>&#0160;</div>
+<div>BUT DON&#39;T THEY REALIZE THEY WILL BE SPREADING THE CORONAVIRUS ALL OVER THE COUNTRY?&#0160;</div>
+<div>&#0160;</div>
+<div>Most likely the COVID-19 came in first to city dwellers, infected during their international travel. With the migrant workers going back to all the places they came from came from, it will spread the disease all over the country.&#0160;</div>
+<div>&#0160;</div>
+<div>Prime Minister Modi apologizes to the poor. He has failed them, he says. In a democracy, a disenfranchised poor probably won&#39;t vote for him. The dead, definitely not.&#0160;</div>
+<div>&#0160;</div>
+<div>He is seen doing yoga, after Tweeting that someone asked how he stays fit.&#0160;</div>
+<div>&#0160;</div>
+<div>Last week we read about how the Milanese spread the virus all over Italy after they learned their city was their country&#39;s epicenter of COVIDS-19. We are about to get Italy times ten.&#0160;</div>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 07:48 PM </span> <span class="separator">|</span> <a class="permalink" href="https://www.thecadinsider.com/2020/03/report-from-marin-not-a-lockdown-week-2.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://www.thecadinsider.com/2020/03/report-from-marin-not-a-lockdown-week-2.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00d834538fbb69e20240a4f736eb200d'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    <h2 class="date-header">March 25, 2020</h2>
+
+	<div class="entry-author-roopinder_tara entry-type-post entry" id="entry-6a00d834538fbb69e20240a51a76a4200b">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://www.thecadinsider.com/2020/03/report-from-marin-its-not-a-lockdown-day-8.html">Report from Marin. It's Not a Lockdown. Day 8.</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<div>Today we brave a trip to the Safeway. It was not crowded. Maybe 50 shoppers all told. All appeared nervous. Should they be there?&#0160; Were they too close? Was it okay to be within the 6 ft social distance if one of you were standing and someone was walking by? If they were walking fast, it was okay, right? Nobody knew the rules. One or two seemed to not care. The shelves that normally held toilet paper and hand sanitizer were bare with sign of &quot;limited 2 to a customer.&quot; The cashier tells me to get 6 ft away from Gretchen so I have to tell the cashier we are together. Same household people are still allowed within the 6 ft social distance.</div>
+<div>&#0160;</div>
+<div>Later in the evening, on our walk, we are told by a neighbor, again from a distance, that there will be some more restrictions coming soon.</div>
+<div>&#0160;</div>
+<div>The State of California has issued a 15 page document about what is an essential service or business. Apparently, way too many of us had judged ourselves essential and were reporting to work or going about our daily business. I think our sense of worth is coming under scrutiny. I check the document and to my relief, news reporters and media are indeed still essential. That means I can go work in the office. So I did. I am wiping down everything in sight, however.&#0160;</div>
+<div>&#0160;</div>
+<div>Son Nick is doing food deliveries An essential service. We worry for him. He is getting a lot of exposure. He coughs at night.&#0160;</div>
+<div>&#0160;</div>
+<div>Daughter Elaine is a nurse. She is cycling through a lot of patients. None of them have been found positive. But is that because none of them have been tested? She thinks she has a fever.&#0160;</div>
+<div>&#0160;</div>
+<div>I read a WSJ article that says the only reason Chinese got past this Coronavirus is that they tested everybody. Okay, not everybody. I don&#39;t think they have a billion test kits. But they tested enough. And if anyone tested positive, off they went into quarantine. A sad picture of positive Chinese in orange jumpsuits on a bus getting waved at by their relatives enforces the &quot;draconian methods&quot; the country has used.&#0160;</div>
+<div>&#0160;</div>
+<div>I have to wonder if &quot;draconian measures&quot; are exactly what are needed. Was that why the spike in deaths in China is a spike? We don&#39;t have a spike yet. A spike is when the number of deaths goes down quick. Our curve is still going up. And up.&#0160;</div>
+<div>&#0160;</div>
+<div>Most of the attention is on New York, our most dense city. Governor Quomo is ringing the alarm.&#0160;</div>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 07:55 PM </span> <span class="separator">|</span> <a class="permalink" href="https://www.thecadinsider.com/2020/03/report-from-marin-its-not-a-lockdown-day-8.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://www.thecadinsider.com/2020/03/report-from-marin-its-not-a-lockdown-day-8.html#comments">Comments (1)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00d834538fbb69e20240a51a76a4200b'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    <h2 class="date-header">March 23, 2020</h2>
+
+	<div class="entry-author-roopinder_tara entry-type-post entry" id="entry-6a00d834538fbb69e20240a4f5208d200d">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://www.thecadinsider.com/2020/03/report-from-marin-not-a-lockdown-yet-day-7.html">Report from Marin. Not a Lockdown Yet. Day 7.</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<div>Has it been a week? Losing track like a prisoner would.</div>
+<div>&#0160;</div>
+<div>Governor Newsom scolds us for taking to the parks and the beaches. “Grow up,” he says.</div>
+<div>&#0160;</div>
+<div>Apparently we aren’t the only ones on the beaches. England has just issued a national lockdown. They were crowding the beaches, too. I can’t blame them. I lived there. A sunny day and warm weather is not easy to come by this time of year.</div>
+<div>&#0160;</div>
+<div>I give the homeless guy (he’s a new one) on the corner of Grant and Redwood a $5 bill. Homeless people are not of the highest priority for anyone at the moment. The community “shelter in place” laws have excluded them from the limitations they have imposed on the rest of us. They can be out and about, consort with each other. Who cares? We’re short on toilet paper, drinking water, our restaurants are closed and we can’t see our friends. Except at a social distance. It’s dire, I tell you. The homeless... they are free to do what they want. What lucky bastards.</div>
+<div>&#0160;</div>
+<div>The Trader Joe’s limits the number of people who can be in the store at the same time. So we can keep our social distance inside, In the line to get in, we stand 6 feet apart. The lady in front of me gets a little close to the older lady in front of her and is told to get back. She does and goes back in her phone. 5 minutes later, the older lady gets in the&#0160;lady’s personal space, the same one she has just told to get back, to mind her cart because while she retrieves her purse from her car. The old lady get’s yelled at this time. “Six feet, please!” Justice or mutual meanness? You decide.,</div>
+<div>&#0160;</div>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 07:05 PM </span> <span class="separator">|</span> <a class="permalink" href="https://www.thecadinsider.com/2020/03/report-from-marin-not-a-lockdown-yet-day-7.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://www.thecadinsider.com/2020/03/report-from-marin-not-a-lockdown-yet-day-7.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00d834538fbb69e20240a4f5208d200d'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    
+
+	<div class="entry-author-roopinder_tara entry-type-post entry" id="entry-6a00d834538fbb69e20240a4f51f9f200d">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://www.thecadinsider.com/2020/03/report-from-marin-not-a-lockdown-yet-day-5-.html">Report from Marin. Not a Lockdown Yet. Day 5. </a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<div>Today, we wake up to the the news that Kevin Durant, who just last year, was playing for the Warriors, tested positive for the COVID-19. Could it be that basketball players are all touching the same surface, the basketball. Or that disgusting thing they do, lick their hands and rub the soles of their shoes?</div>
+<div>&#0160;</div>
+<div>We go out for croissants and coffee at the Rustic Bakery, a Saturday morning ritual, but we don&#39;t get there until late in the morning. They&#39;ve run out of croissants, and most other baked goods. &quot;We have only 2 out of 8 bakers reporting to work,&quot; says the nice guy at the counter. All their chairs have been removed so no one can dine in and violate the law. On the way out, a customer who has ordered ahead, stops dead in his tracks until we walk by and accepts a bag only after it has been left on a table outside the restaurant. I can&#39;t blame him. He is gray haired. Older people are dieing at a far greater rate from COVID-19. The NYT, after looking at data from New York hospitals, found that 1 out of 5 or 6 admitted to NY ICUs did not get out.&#0160;&#0160;</div>
+<div>&#0160;</div>
+<div>We are forced to go down the street. At the local coffee shop, Dr. Insommnia, they still have their signature &quot;scruffins&quot; and you can sit outside to enjoy them. More than the required 6 feet away is a great Dane. &quot;Usually, he gets all kinds of attention,&quot; the owner says.</div>
+<div>&#0160;</div>
+<div>If course, there are no garage sales -- the other part of our Saturday.</div>
+<div>&#0160;</div>
+<div>It&#39;s a tough life in Marin. Not really. I apologize. Do excuse the attempt at humor at this most trying of time. Most of us have our (very expensive) houses paid up. We can walk around our neighborhoods smiling at each other. We don&#39;t have to sweat monthly rent payments. What is it like in SF, like the Mission District, for example. Is it desperate times. Most people in the city rent, don&#39;t they? What if you are depending on your job in a restaurant, and that restaurant is now closed, or barely open, only doing takeout and delivery. If you are waitstaff, you are out of luck.&#0160;</div>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 06:40 PM </span> <span class="separator">|</span> <a class="permalink" href="https://www.thecadinsider.com/2020/03/report-from-marin-not-a-lockdown-yet-day-5-.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://www.thecadinsider.com/2020/03/report-from-marin-not-a-lockdown-yet-day-5-.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00d834538fbb69e20240a4f51f9f200d'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    
+
+	<div class="entry-author-roopinder_tara entry-type-post entry" id="entry-6a00d834538fbb69e2025d9b3fae77200c">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://www.thecadinsider.com/2020/03/report-from-marin-not-a-lockdown-yet-day-4.html">Report from Marin. Not a Lockdown Yet. Day 4.</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<div>Not a Lockdown - Day 4</div>
+<div>&#0160;</div>
+<div>It’s like a parade of pedestrians out there. Plus their dogs. Their kids. And they all seem happy to see us. They must be the people overjoyed to be at home, not doing a 1.5 hr commute each way into the city during rush hour.&#0160;</div>
+<div>&#0160;</div>
+<div>Several have stopped at our little library. It’s half empty and I have to add about 10 Nat Geos and some books. “Don’t you take my books without asking me,” says Gretchen.</div>
+<div>&#0160;</div>
+<div>Governor Newsom has put the whole state in Shelter in Place — still not a lockdown. But he knows he can’t be enforced. So does the chief of police of LA who flat out says they will not be arresting anyone for violating the order. Okay, says the governor, but can we still deal with Asians who are getting beat up because dummies think they are spreading COVID-19? I’m pretty sure he means to rescue the Asians from racist acts, not join in on the beating.</div>
+<div>&#0160;</div>
+<div>A report on Mexico’s problem on NPR has a Mexican saying how few Mexicans are being tested. We’ve had as many COVI-19 cases in the country as the city of San Diego. The NPR person asks how bad is it over there and has to be told, yes, people are dying in Mexico, too.</div>
+<div>&#0160;</div>
+<div>The governor’s order doesn’t clear journalists so I follow the local order for Marin, which is more to my benefit, declaring me essential. On the way to the office, there’s still too many cars on the road. People are not taking this seriously.&#0160;</div>
+<div>&#0160;</div>
+<div>The governor declared the Shelter in Place on Twitter. It was quickly followed by “Who does this guy think he is, a king??” And f**k this and f**k that. An overwhelmingly negative reaction, IMO. But I understand people don’t like their freedoms taken from them. The governor had also made the mistake of saying 56% of California’s population, about 20 million people, will get the Coronavirus. He was using a worst case simulation in an attempt to get our president to dock a hospital ship in LA’s harbor. That did not go over so well.&#0160;</div>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 06:39 PM </span> <span class="separator">|</span> <a class="permalink" href="https://www.thecadinsider.com/2020/03/report-from-marin-not-a-lockdown-yet-day-4.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://www.thecadinsider.com/2020/03/report-from-marin-not-a-lockdown-yet-day-4.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00d834538fbb69e2025d9b3fae77200c'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    
+
+	<div class="entry-author-roopinder_tara entry-type-post entry" id="entry-6a00d834538fbb69e20240a519c936200b">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://www.thecadinsider.com/2020/03/report-from-marin-not-a-lockdown-yet-day-3.html">Report from Marin. Not a Lockdown Yet. Day 3.</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<div>Getting isolated from everyone then depending on the news for all the COVID-19 information is a real bummer. NPR is reporting on Africa’s impending panic. When the health care workers leave, there will be panic, says a doctor in Nairobi. South Africa, widely regarded as the most technologically, industrial and medical system in all of Africa, has 2 critical care beds for every 100,000 people. Compared to 30 in the US.</div>
+<div>&#0160;</div>
+<div>To keep our spirits up, we order a pizza delivered to us. The restaurant, Ghiringhelli’s has emailed me with deals, saying it will deliver for free. They sound really thankful of our order on the phone, more than usual.&#0160;</div>
+<div>&#0160;</div>
+<div>The Japanese restaurant next door, I drive past one of the two who work there, He is smoking a cigarette. On the front door is a sign that they are still doing takeout.</div>
+<div>&#0160;</div>
+<div>A teacher at Gret’s pre-school send a text to a group. She is out of chocolate and sick of being in her house. Over 70, the school had a scare and are awaiting the test results of someone who had flu syptoms. We deliver a small bag of assorted chocolates. She is quite happy and thanks us through the slats in her wooden fence.</div>
+<div>&#0160;</div>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 06:37 PM </span> <span class="separator">|</span> <a class="permalink" href="https://www.thecadinsider.com/2020/03/report-from-marin-not-a-lockdown-yet-day-3.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://www.thecadinsider.com/2020/03/report-from-marin-not-a-lockdown-yet-day-3.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00d834538fbb69e20240a519c936200b'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    
+
+	<div class="entry-author-roopinder_tara entry-type-post entry" id="entry-6a00d834538fbb69e20240a4f51f1e200d">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://www.thecadinsider.com/2020/03/report-from-marin-not-a-lockdown-yet-day-2-.html">Report from Marin. Not a Lockdown Yet. Day 2. </a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<div>The neighbors seem to be friendlier, almost desperate for attention. One calls out from across the street and complains about what she can teach her kids, now that all the schools are closed. She was a preschool teacher, so we know she knows what to do with her preschoolers.&#0160;</div>
+<div>&#0160;</div>
+<div>We’re out for a walk. People smile from their cars and wave to us to cross, and smile.&#0160;</div>
+<div>&#0160;</div>
+<div>I swear our neighbors were not like this. Most would duck and run if they saw us coming. It’s California. We usually make a game of avoidance. That’s what they do here. You find out about you have a neighbor at work.&#0160;</div>
+<div>&#0160;</div>
+<div>The streets are less travelled but not deserted. CNN did apiec on SF and we’re a bit judjy about how we were all out jogging and walking holding hands despite the imposed shelter in place.&#0160;</div>
+<div>&#0160;</div>
+<div>We hear reports of more shelves being bare. Hand sanitizer, toilet paper, now beans, pasta is gone.&#0160;</div>
+<div>&#0160;</div>
+<div>We study the law, the decree, for what is “essential” services or businesses. We can’t see friends, attend book clubs.&#0160;</div>
+<div>&#0160;</div>
+<div>&#0160;</div>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 06:34 PM </span> <span class="separator">|</span> <a class="permalink" href="https://www.thecadinsider.com/2020/03/report-from-marin-not-a-lockdown-yet-day-2-.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://www.thecadinsider.com/2020/03/report-from-marin-not-a-lockdown-yet-day-2-.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00d834538fbb69e20240a4f51f1e200d'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+
+
+
+    <h2 class="date-header">March 17, 2020</h2>
+
+	<div class="entry-author-roopinder_tara entry-type-post entry" id="entry-6a00d834538fbb69e20240a4f2fb62200d">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://www.thecadinsider.com/2020/03/its-a-scared-new-world-sheltered-in-place-in-the-bay-area-.html">It's a Scared New World. Sheltered in Place in the Bay Area. </a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<div style="text-align: center; padding-left: 80px;"><a class="asset-img-link" href="https://cadinsider.typepad.com/.a/6a00d834538fbb69e2025d9b3d7cad200c-popup" onclick="window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false"><img alt="Scap-0116" class="asset  asset-image at-xid-6a00d834538fbb69e2025d9b3d7cad200c img-responsive" src="https://cadinsider.typepad.com/.a/6a00d834538fbb69e2025d9b3d7cad200c-500wi" style="display: block; margin-left: auto; margin-right: auto;" title="Scap-0116" /></a><em>Where is everyone? Grant Avenue, downtown Novato, almost abandoned the first day of a 7-county &quot;shelter in place&quot; order meant to arrest the spread of COVID-19.</em></div>
+<div><br />Today is a day like no other. I write this from a deserted office. Everyone has been told to stay home. The <a href="https://coronavirus.marinhhs.org/sites/default/files/Files/Shelter%20in%20Place/Shelter%20in%20Place%20Order%2016%20March%202020.pdf">law</a> took effect at midnight last night making it a misdemeanor to be going to work at any place considered non-essential. It is the most severe curtailment of the public in the country.</div>
+<div>&#0160;</div>
+<div>Luckily, the news media is considered essential.&#0160;I keep a press pass on me in case I get stopped.</div>
+<div>&#0160;</div>
+<div>Seven San Francisco Bay Area counties have declared that over 6 million of their citizens have to &quot;shelter in place.&quot; If they have a place. The homeless are excluded from this law.</div>
+<div>&#0160;</div>
+<div>We may be just a few Coronavirus cases away from a full lock down, when we will need official permission to leave the house, essentially a 24 hour curfew. Right now, we are permitted to go out for food, medicine and exercise -- as long as we go out by ourselves or stay 6 feet away from each other.&#0160;</div>
+<div>&#0160;</div>
+<div>The &quot;social distancing&quot; does not apply to family members. Thank God. Oh, yeah. God is not considered essential. So no churches, synagogues or temples are open.</div>
+<div>&#0160;</div>
+<div>No restaurants should be open for dining in. They can cook food for deliveries or hand you food through your car window, though. No bars will be open. No smoke or vape shops. None of our famous cannabis shops. So I hear.</div>
+<div>&#0160;</div>
+<div>I&#39;ll have to wave to Mom through her front window. She sits all day always looking out. The life care facility has shut its doors to visitors. That&#39;s good. I read that the over-80 have a one in six chance of not surviving COVID-19.&#0160;</div>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 02:21 PM </span> <span class="separator">|</span> <a class="permalink" href="https://www.thecadinsider.com/2020/03/its-a-scared-new-world-sheltered-in-place-in-the-bay-area-.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://www.thecadinsider.com/2020/03/its-a-scared-new-world-sheltered-in-place-in-the-bay-area-.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00d834538fbb69e20240a4f2fb62200d'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+	
+
+        
+
+
+
+    
+
+
+
+
+    <h2 class="date-header">March 08, 2020</h2>
+
+	<div class="entry-category-events entry-author-roopinder_tara entry-type-post entry" id="entry-6a00d834538fbb69e20240a5149074200b">
+       <div class="entry-inner">
+					<h3 class="entry-header"><a href="https://www.thecadinsider.com/2020/03/coronavirus-kills-another-event.html">Coronavirus Kills Another Event</a></h3>
+		
+
+
+
+		<div class="entry-content">
+
+			<div class="entry-body">
+				<p><a class="asset-img-link" href="https://cadinsider.typepad.com/.a/6a00d834538fbb69e20240a4efe994200d-popup" onclick="window.open( this.href, &#39;_blank&#39;, &#39;width=640,height=480,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0&#39; ); return false"><img alt="Sxsw 2020 cancelled" class="asset  asset-image at-xid-6a00d834538fbb69e20240a4efe994200d img-responsive" src="https://cadinsider.typepad.com/.a/6a00d834538fbb69e20240a4efe994200d-500wi" style="display: block; margin-left: auto; margin-right: auto;" title="Sxsw 2020 cancelled" /></a></p>
+<p><a href="https://www.sxsw.com/2020-event-update/">SXSW 2020 is cancelled</a>. South by Southwest is the biggest show we (as TenLinks or as engineering.com) have ever attended. In 2018, 160K attended. Officially, it has been delayed &quot;delayed&quot; past it&#39;s March date until who knows when, another victim of the Coronavirus. As late as last week, SXSW planners were bravely saying the show must go on, but on Friday, the city of Austin cancelled it.</p>
+<p>The economic effect of cancelling such a big event will be felt by downtown businesses, to put it mildly. Most Austin natives know to avoid the downtown during the music/movie/tech festival but the convention facilities, hotels, bars and restaurants count on the out-of-town revelers to pump in millions of dollars. A 34 year old show, last year&#39;s SXSW set a record when it brought an estimated <a href="https://www.sxsw.com/wp-content/uploads/2019/11/Press-Release-SXSW-Economic-Impact-2019.pdf">$356 million.</a>&#0160;&#0160;</p>
+<p>The shock waves from this big an event being cancelled is bound to add pressure on smaller events. Look for AIA to cancel its annual gathering of architects next – or have its host city do it for for them. AIA hosts over 20,000 architects a year. This year it is planned for May in Los Angeles.</p>
+<p>Until the Coronavirus panic abates, event owners who may not have wanted to take the losses of cancelling an event, same as convention facilities, may be forced to do so by pressure from the cities they are in. The natives of those cities do not want to have disease carriers visit. And as much as city officials will hate to listen to complaints from local businesses who cater to conventioneers, they will most certainly not want their city to be the one the Coronavirus bursts out from to infect the rest of the country.</p>
+<p>More on <a href="https://www.engineering.com/Hardware/ArticleID/19994/The-Coronavirus-Is-Killing-off-Conferences.aspx">Coronavirus is Killing Conferences</a> at engineering.com</p>
+<p>&#0160;</p>
+			</div>
+			
+
+
+<!-- SIGNATURE -->
+
+
+
+
+			
+		</div>
+		<div class="entry-footer">
+			<p class="entry-footer-info">
+				
+                <span class="post-footers">Posted at 02:08 PM in <a href="https://www.thecadinsider.com/events/">Events</a> </span> <span class="separator">|</span> <a class="permalink" href="https://www.thecadinsider.com/2020/03/coronavirus-kills-another-event.html">Permalink</a>
+									<span class="separator">|</span>
+                                    
+					<a class="entry-comments" href="https://www.thecadinsider.com/2020/03/coronavirus-kills-another-event.html#comments">Comments (0)</a>
+                                    
+				
+				
+			</p>
+			<!-- technorati tags -->
+
+    
+
+
+			<!-- post footer links -->
+	<p class="entry-footer-share entry-footer-share-buttons">
+		<span class="entry-footer-links-reblog"><a href="#" class="share-link share-link-reblog" title="Grab this post for your own blog" onclick="b=document.body; TYPEPAD___bookmarklet_domain='https://www.typepad.com/'; TYPEPAD___reblog_entryxid='6a00d834538fbb69e20240a5149074200b'; TYPEPAD___is_reblog = 1; if (b &amp;&amp; !document.xmlVersion) { void ( z=document.createElement('script')); void(z.type='text/javascript'); void(z.src='https://static.typepad.com/.shared/js/qp/loader-combined-min.js'); void(b.appendChild(z));}else{}">Reblog
+ (0)
+</a>
+</span>
+	</p>
+
+
+		</div>
+	</div>
+      </div>
+
+			<div class="pager-bottom pager-entries pager content-nav">
+		<div class="pager-inner">
+			
+			
+			<span class="pager-right">
+				<a href="https://www.thecadinsider.com/page/2/"><span class="pager-label">Next</span>
+					<span class="chevron">&#187;</span></a>
+			</span>
+		</div>
+	</div>
+	
+	
+
+        
+
+
+
+                                                </div>
+                                        </div>
+                                        <div id="beta">
+                                                <div id="beta-inner" class="pkg">
+                                                        <!-- sidebar -->
+
+
+<!-- custom_code.tt --><div class="module-custom_html module">
+    <div class="module-content">
+<!--start dfp 160 body code-->
+
+<!-- CADInsider 160 -->
+<div id='div-gpt-ad-1407106385596-0' style='width:160px; height:600px;'>
+<script type='text/javascript'>
+googletag.cmd.push(function() { googletag.display('div-gpt-ad-1407106385596-0'); });
+</script>
+</div>
+<!--end dfp 160 body code-->
+    </div>
+</div>
+<!-- end custom_code.tt -->
+<div class="module-categories module">
+	<h2 class="module-header"><a href="https://www.thecadinsider.com/archives.html">Categories</a></h2>
+	<div class="module-content">
+                   <ul class="module-list">
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/3d-printing/">3D Printing</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/3d-scan-and-print/">3D Scan and Print</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/aec/">AEC</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/aia/">AIA</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/autodesk/">Autodesk</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/autodesk-university/">Autodesk University</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/bentley-year-in-infrastructure/">Bentley Year in Infrastructure</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/books/">Books</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/cad_industry/">CAD Industry</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/cae/">CAE</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/cam/">CAM</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/catia/">CATIA</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/civil-engineering/">Civil Engineering</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/cofes/">COFES</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/current_affairs/">Current Affairs</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/dassault/">Dassault</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/dassault-3dexperience/">Dassault 3DEXPERIENCE</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/ethics/">Ethics</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/events/">Events</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/gis/">GIS</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/graphics/">Graphics</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/graphisoft/">Graphisoft</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/green-design/">Green Design</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/hardware/">Hardware</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/interoperability/">interoperability</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/maker-faire/">Maker Faire</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/mcad/">MCAD</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/media/">Media</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/microstation/">MicroStation</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/nafems/">NAFEMS</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/nx/">NX</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/onshape/">Onshape</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/pet-peeves/">Pet Peeves</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/ptc/">PTC</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/ptc-live-global/">PTC Live Global</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/rapid-2014/">RAPID 2014</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/rapid-prototype/">Rapid Prototype</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/siggraph/">SIGGRAPH</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/software_industry/">Software Industry</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/solid_edge/">Solid Edge</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/solid-edge-university/">Solid Edge University</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/solidworks/">SolidWorks</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/solidworks-world/">SOLIDWORKS World</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/spar-intl/">SPAR Int'l</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/sport-technology/">Sport Technology</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/sustainability/">Sustainability</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/travel/">Travel</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/trimble-dimensions/">Trimble Dimensions</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/ugs/">UGS</a></li>
+
+
+
+                        <li class="module-list-item"><a href="https://www.thecadinsider.com/virtualization/">Virtualization</a></li>
+</span>
+		</ul>
+
+<a style="font-size:85%;display:none;" class="cat-more" href="https://www.thecadinsider.com/archives.html">See More</a>
+	</div>
+</div>
+<!-- about page link -->
+<div class="module-about module">
+	<h2 class="module-header"><a
+		href="https://cadinsider.typepad.com/about.html">About</a></h2>
+</div>
+<div class="module-search module">
+    <h2 class="module-header">Search</h2>
+    <div class="module-content">
+        <form id="search-blog" method="get" action="https://www.thecadinsider.com/.services/blog/6a00d834538fbb69e200d83453902669e2/search" class="form-search form-inline" role="search">
+
+            <input type="search" name="filter.q" results="5" value="" />
+            <input type="submit" value="Search" />
+            
+        </form>
+    </div>
+</div>
+<!-- END Blog Search Module -->
+	<div class="module-archives module">
+		<h2 class="module-header">Recent Posts</h2>
+		<div class="module-content">
+			<ul class="module-list">
+				
+									<li class="module-list-item"><a href="https://www.thecadinsider.com/2020/04/coronovirus-makes-for-better-views-himalayan-mountains-pop-into-view-.html">Coronovirus Giving Us Great Views. Himalayan Mountains Pop Into View in India. </a></li>
+					
+				
+									<li class="module-list-item"><a href="https://www.thecadinsider.com/2020/03/report-from-marin-not-a-lockdown-week-2.html">Report from Marin. Not a Lockdown. Week 2.</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://www.thecadinsider.com/2020/03/report-from-marin-its-not-a-lockdown-day-8.html">Report from Marin. It's Not a Lockdown. Day 8.</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://www.thecadinsider.com/2020/03/report-from-marin-not-a-lockdown-yet-day-7.html">Report from Marin. Not a Lockdown Yet. Day 7.</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://www.thecadinsider.com/2020/03/report-from-marin-not-a-lockdown-yet-day-5-.html">Report from Marin. Not a Lockdown Yet. Day 5. </a></li>
+					
+				
+									<li class="module-list-item"><a href="https://www.thecadinsider.com/2020/03/report-from-marin-not-a-lockdown-yet-day-4.html">Report from Marin. Not a Lockdown Yet. Day 4.</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://www.thecadinsider.com/2020/03/report-from-marin-not-a-lockdown-yet-day-3.html">Report from Marin. Not a Lockdown Yet. Day 3.</a></li>
+					
+				
+									<li class="module-list-item"><a href="https://www.thecadinsider.com/2020/03/report-from-marin-not-a-lockdown-yet-day-2-.html">Report from Marin. Not a Lockdown Yet. Day 2. </a></li>
+					
+				
+									<li class="module-list-item"><a href="https://www.thecadinsider.com/2020/03/its-a-scared-new-world-sheltered-in-place-in-the-bay-area-.html">It's a Scared New World. Sheltered in Place in the Bay Area. </a></li>
+					
+				
+									<li class="module-list-item"><a href="https://www.thecadinsider.com/2020/03/coronavirus-kills-another-event.html">Coronavirus Kills Another Event</a></li>
+					
+				
+			</ul>
+		</div>
+	</div>
+
+
+
+
+                                                </div>
+                                        </div>
+                                </div>
+                        </div>
+</div> <!-- row -->
+                        
+
+
+<!-- container-footer -->
+<div id="footer">
+<div class="row well"><div class="col-md-12">
+	<div id="footer-inner">
+		<p align="center"><font face="Arial" size="2">©2015 by
+<a href="https://www.engineering.com/">ENGINEERING.com</a>, Inc. All rights 
+reserved. </font></p>
+	</div>
+</div></div>
+</div>
+
+                </div>
+        </div>
+        
+
+
+
+
+
+     
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+<!--
+var extra_happy = Math.floor(1000000000 * Math.random());
+document.write('<img src="https://www.typepad.com/t/stats?blog_id=326869&amp;user_id=778891&amp;page=' + escape(location.href) + '&amp;referrer=' + escape(document.referrer) + '&amp;i=' + extra_happy + '" width="1" height="1" alt="" style="position: absolute; top: 0; left: 0;" />');
+// -->
+</script>
+
+<!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-54334603-5', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+
+
+
+<!-- Begin disqus Tag -->
+
+<!-- End disqus Tag -->
+</body>
+</html>
+
+<!-- ph=1 -->
